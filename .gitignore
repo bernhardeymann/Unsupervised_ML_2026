@@ -1,0 +1,21 @@
+# Python virtual environment
+uml_env/
+
+# Raw data (not to be versioned)
+data/raw/
+
+# Initial conversation file
+Initial Conversation.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
