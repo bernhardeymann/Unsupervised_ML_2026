@@ -12,11 +12,17 @@ This project applies unsupervised machine learning techniques to the *Systematis
 
 | Step | Description | Notebook |
 |------|-------------|----------|
-| 1 | Data Sourcing & Cleaning | `notebooks/01_data_sourcing.ipynb` |
+| 1.1 | Data Sourcing — Load from data.bs.ch | `notebooks/01_1_data_sourcing.ipynb` |
+| 1.2 | Cleaning — Remove HTML tags | `notebooks/01_2_html_cleaning.ipynb` |
+| 1.3 | Cleaning — Remove legal boilerplate vocabulary | `notebooks/01_3_legal_stopwords.ipynb` |
+| 1.4 | NLP — Lemmatization | `notebooks/01_4_lemmatization.ipynb` |
 | 2 | Feature Engineering (Text → Vectors) | `notebooks/02_feature_engineering.ipynb` |
-| 3 | Preprocessing (Scaling & Outlier Detection) | `notebooks/03_preprocessing.ipynb` |
-| 4 | Dimensionality Reduction (PCA / t-SNE) | `notebooks/04_dimensionality_reduction.ipynb` |
-| 5 | Clustering Experiments (K-Means & DBSCAN) | `notebooks/05_clustering.ipynb` |
+| 3.1 | Preprocessing — Scaling | `notebooks/03_1_scaling.ipynb` |
+| 3.2 | Preprocessing — Outlier Detection | `notebooks/03_2_outlier_detection.ipynb` |
+| 4.1 | Dimensionality Reduction (PCA / t-SNE) | `notebooks/04_1_dimensionality_reduction.ipynb` |
+| 4.2 | Visualization — Legal Landscape Plot | `notebooks/04_2_visualization.ipynb` |
+| 5.1 | Clustering — K-Means | `notebooks/05_1_kmeans.ipynb` |
+| 5.2 | Clustering — DBSCAN | `notebooks/05_2_dbscan.ipynb` |
 | 6 | Iteration & Improvement | `notebooks/06_iteration.ipynb` |
 
 ## Repository Structure
@@ -24,8 +30,8 @@ This project applies unsupervised machine learning techniques to the *Systematis
 ```
 ├── data/
 │   ├── raw/            # Raw data from data.bs.ch (not versioned)
-│   └── processed/      # Cleaned and lemmatized data
-├── notebooks/          # One notebook per workflow step
+│   └── processed/      # Cleaned and processed data
+├── notebooks/          # One notebook per workflow sub-step
 ├── report/
 │   ├── chapters/       # LaTeX chapter files
 │   ├── figures/        # Plots and visualizations
