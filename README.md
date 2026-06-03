@@ -13,9 +13,8 @@ This project applies unsupervised machine learning techniques to the *Systematis
 | Step | Description | Notebook |
 |------|-------------|----------|
 | 1.1 | Data Sourcing — Load from data.bs.ch | `notebooks/01_1_data_sourcing.ipynb` |
-| 1.2 | Cleaning — Remove HTML tags | `notebooks/01_2_html_cleaning.ipynb` |
-| 1.3 | Cleaning — Remove legal boilerplate vocabulary | `notebooks/01_3_legal_stopwords.ipynb` |
-| 1.4 | NLP — Lemmatization | `notebooks/01_4_lemmatization.ipynb` |
+| 1.2 | Cleaning — Remove legal boilerplate vocabulary | `notebooks/01_2_legal_stopwords.ipynb` |
+| 1.3 | NLP — Lemmatization | `notebooks/01_3_lemmatization.ipynb` |
 | 2 | Feature Engineering (Text → Vectors) | `notebooks/02_feature_engineering.ipynb` |
 | 3.1 | Preprocessing — Scaling | `notebooks/03_1_scaling.ipynb` |
 | 3.2 | Preprocessing — Outlier Detection | `notebooks/03_2_outlier_detection.ipynb` |
