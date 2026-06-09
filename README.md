@@ -15,7 +15,8 @@ This project applies unsupervised machine learning techniques to the *Systematis
 | 1.1 | Data Sourcing — Load from data.bs.ch | `notebooks/01_1_data_sourcing.ipynb` |
 | 1.2 | NLP — Lemmatization | `notebooks/01_2_lemmatization.ipynb` |
 | 1.3 | Cleaning — Frequency analysis & legal stopword removal | `notebooks/01_3_legal_stopwords.ipynb` |
-| 2 | Feature Engineering (Text → Vectors) | `notebooks/02_feature_engineering.ipynb` |
+| 2.1 | Feature Engineering — TF-IDF | `notebooks/02_1_tfidf.ipynb` |
+| 2.2 | Feature Engineering — Word2Vec (avg) | `notebooks/02_2_word2vec.ipynb` |
 | 3.1 | Preprocessing — Scaling | `notebooks/03_1_scaling.ipynb` |
 | 3.2 | Preprocessing — Outlier Detection | `notebooks/03_2_outlier_detection.ipynb` |
 | 4.1 | Dimensionality Reduction (PCA / t-SNE) | `notebooks/04_1_dimensionality_reduction.ipynb` |
