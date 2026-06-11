@@ -7,6 +7,9 @@ data/raw/
 # Initial conversation file
 Initial Conversation.txt
 
+# Internal report notes (not for versioning)
+report_notes.md
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
