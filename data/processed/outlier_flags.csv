@@ -1,0 +1,734 @@
+,systematic_number,title_de,token_count,outlier_tfidf,outlier_w2v,outlier_short,outlier_score,exclude
+0,330.500,Entfernung der Spitalliste aus der Gesetzessammlung,28,False,False,False,0,False
+1,333.200,"Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung",476,False,False,False,0,False
+2,339.220,Verordnung über die von der Sanität Basel zu erhebenden Gebühren,222,False,False,False,0,False
+3,351.100,Vollziehungsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände,178,False,False,False,0,False
+4,361.300,Verordnung über die Bekämpfung von Tierseuchen,337,False,False,False,0,False
+5,365.520,"Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau",79,False,False,False,0,False
+6,369.200,Reglement für den Betrieb einer Tierkörpersammelstelle (TKS),139,False,False,False,0,False
+7,371.100,Sportgesetz,233,False,False,False,0,False
+8,410.130,"Verordnung über den Schulbesuch, die Absenzen, Dispensationen und Disziplinarmassnahmen",848,False,True,False,1,False
+9,410.180,Konkordat über die Schulkoordination,149,False,False,False,0,False
+10,410.500,Ordnung für den Religionsunterricht,137,False,False,False,0,False
+11,411.200,Verordnung über die Schulkommissionen der weiterführenden Schulen,231,False,False,False,0,False
+12,411.450,Ordnung über Auftrag und Arbeitszeit der Lehrpersonen,203,False,False,False,0,False
+13,413.630,Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt,932,True,False,False,1,False
+14,413.820,Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt,803,False,False,False,0,False
+15,414.200,Verordnung über die Abgabe von Lehrmitteln und Verbrauchsmaterialien,112,False,False,False,0,False
+16,414.300,Ordnung für das Verfahren bei der Beschaffung von Lehrmitteln,60,False,False,False,0,False
+17,415.100,Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche,380,False,False,False,0,False
+18,415.170,Richtlinie betreffend die Tätigkeit und Organisation des Jungen Rates,110,False,False,False,0,False
+19,415.500,Weisung betreffend die Vergütung für die Leitung von freiwilligen Kursen und ähnlichen Angeboten sowie für Tätigkeiten in Verbindung mit Jugend und Sport,152,False,False,False,0,False
+20,419.300,"Verordnung über Studien-, Kurs- und Verwaltungsgebühren in der kantonalen Berufsbildung",191,False,False,False,0,False
+21,419.810,Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen,379,False,False,False,0,False
+22,419.900,Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen,441,False,False,False,0,False
+23,419.902,Reglement des Schweizerischen Roten Kreuzes (SRK) über die Anerkennung kantonaler Ausbildungsabschlüsse,169,False,False,False,0,False
+24,419.904,Reglement des SRK über die Anerkennung von ausländischen Ausbildungsabschlüssen,236,False,False,False,0,False
+25,421.770,Verordnung betreffend den Ausbildungsgang Gestalter oder Gestalterin an der Schule für Gestaltung,322,False,False,False,0,False
+26,423.200,Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt Deutsch»,412,False,False,False,0,False
+27,427.100,Verordnung über das Bildungszentrum Gesundheit Basel-Stadt (BZG),356,False,False,False,0,False
+28,427.150,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nicht akademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe,173,False,False,False,0,False
+29,427.800,Reglement über die Ausbildung und Lehrabschlussprüfung für gelernte Matrosen und Matrosinnen der Binnenschifffahrt,660,False,False,False,0,False
+30,427.930,Verordnung über den Bildungsgang zur diplomierten Fachfrau für medizinisch technische Radiologie HF / zum diplomierten Fachmann für medizinisch technische Radiologie HF,473,False,False,False,0,False
+31,428.710,Studien- und Prüfungsreglement für Schulische Heilpädagogik,519,False,False,False,0,False
+32,442.410,Vereinbarung über das Immobilienwesen der Universität Basel,690,False,False,False,0,False
+33,452.300,Verordnung betreffend die Erhebung von Gebühren durch das Staatsarchiv,69,False,False,False,0,False
+34,491.100,Gesetz betreffend Ausbildungsbeiträge,381,False,False,False,0,False
+35,494.300,Kulturfördergesetz,177,False,False,False,0,False
+36,494.350,Verordnung für die Verleihung des Kulturpreises des Kantons Basel-Stadt,52,False,False,False,0,False
+37,494.400,Ordnung für den Preis der Universität Basel,166,False,False,False,0,False
+38,497.300,Denkmalverzeichnis,11,False,True,True,2,True
+39,510.150,Kantonale Verordnung über Massnahmen zur Unterstützung der Sicherheit von Minderheiten mit besonderen Schutzbedürfnissen,90,False,False,False,0,False
+40,510.900,"Verwaltungsvereinbarung zwischen dem Kanton Basel-Stadt, vertreten durch das Sicherheitsdepartement, und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Kantonspolizei Basel-Stadt und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung",273,False,False,False,0,False
+41,519.400,Verordnung über die Beglaubigungsgebühren sowie die Gebühren auf dem Gebiet der Einwohnerkontrolle und des Ausländerrechts,142,False,False,False,0,False
+42,519.800,Verordnung über die Gebühren des Instituts für Rechtsmedizin,48,False,False,False,0,False
+43,561.105,Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele,329,False,False,False,0,False
+44,772.400,Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität,3340,True,True,False,2,False
+45,772.530,Gebührentarif der IWB Industrielle Werke Basel betreffend Gas,215,False,False,False,0,False
+46,772.600,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Fernwärme,1345,False,True,False,1,False
+47,772.800,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser,1421,False,True,False,1,False
+48,780.200,Verordnung über die Umweltverträglichkeitsprüfung im Kanton Basel-Stadt,154,False,False,False,0,False
+49,780.300,Verordnung über den Mobilitätsfonds,462,False,False,False,0,False
+50,781.200,Verordnung über die Lufthygiene,132,False,False,False,0,False
+51,783.400,Gesetz über Grundwasserschutzzonen,192,False,False,False,0,False
+52,783.410,Verordnung über Grundwasserschutzzonen und Gewässerschutzbereiche,441,False,False,False,0,False
+53,784.740,"Vertrag zwischen dem Kanton Basel-Stadt und dem Wieseverband, Sitz in Lörrach, betreffend das Durchleitungsrecht für den Abwasserhauptsammler im Gebiet des Schlipf, auf dem rechten Ufergelände der Wiese im Kanton Basel-Stadt (Gemeinde Riehen) und den Anschluss der Kanalisation des rechtsuferigen Wiesegeländes der Gemeinde Riehen, mit Ausnahme der Zollfreien Strasse Lörrach-Weil, an den Abwasserhauptsammler und Reinigung des Abwassers in der Abwasserreinigungsanlage Bändlegrund des Wieseverbandes",284,False,False,False,0,False
+54,785.700,Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässerschutzmassnahmen,419,False,False,False,0,False
+55,785.740,"Vertrag zwischen 1. Kanton Basel-Stadt vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel 2. Kanton Basel-Landschaft vertreten durch den Regierungsrat 3. Einfacher Gesellschaft, bestehend aus a) BASF Schweiz AG, Basel b) F. Hoffmann-La Roche AG, Basel c) Huntsman Advanced Materials (Switzerland) GmbH, Basel d) Novartis Pharma AG, Basel e) Syngenta Crop Protection AG, Basel betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen",912,False,False,False,0,False
+56,786.300,Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben,192,False,False,False,0,False
+57,786.310,Umsetzungsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel (KVA) und von Verbrennungsrückständen aus der KVA auf der Deponie Elbisgraben,296,False,False,False,0,False
+58,786.360,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, einerseits, und der Stadt Weil am Rhein, vertreten durch den Bürgermeister, anderseits, betreffend die Verwertung und Vernichtung von Abfallstoffen",186,False,False,False,0,False
+59,789.710,Baumschutzverordnung,174,False,False,False,0,False
+60,812.200,Gesetz über den kantonalen Mindestlohn,160,False,False,False,0,False
+61,812.600,Verordnung über die Organisation der Bekämpfung der Schwarzarbeit im Kanton Basel-Stadt,151,False,False,False,0,False
+62,813.300,Gesetz betreffend das ständige staatliche Einigungsamt,1147,False,False,False,0,False
+63,815.150,Verordnung betreffend ergänzende Beiträge für die frühkindliche Förderung in Spielgruppen mit Deutschförderung,131,False,False,False,0,False
+64,819.410,Gesetz über die steuerbegünstigten Arbeitsbeschaffungsreserven,112,False,False,False,0,False
+65,819.872,Verordnung 2 betreffend Gewährung von kantonalen Start-up-Bürgschaften infolge COVID-19-Pandemie,313,False,False,False,0,False
+66,819.878,Dringlicher Grossratsbeschluss über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie,73,False,False,False,0,False
+67,819.879.001,Verordnung betreffend Unterstützungsprogramm für Gastronomie und Hotellerie im Zusammenhang mit der Covid-19-Pandemie,303,False,False,False,0,False
+68,832.200,Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung,184,False,False,False,0,False
+69,832.500,Einführungsgesetz zum Bundesgesetz über die Invalidenversicherung für eine IV-Stelle Basel-Stadt,205,False,False,False,0,False
+70,832.700,"Gesetz über die Einführung des Bundesgesetzes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen",446,False,False,False,0,False
+71,832.710,"Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung",422,False,False,False,0,False
+72,833.100,Vertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die BVG- und Stiftungsaufsicht beider Basel,469,False,False,False,0,False
+73,833.110,Ordnung über die berufliche Vorsorge,275,False,False,False,0,False
+74,834.800,Verordnung zum Bundesgesetz über die Unfallversicherung (UVG),148,False,False,False,0,False
+75,835.510,Verordnung betreffend kantonale Arbeitslosenhilfe,205,False,False,False,0,False
+76,861.520,Verordnung über die Wohnraumförderung,641,False,False,False,0,False
+77,861.540,Verordnung über den Schutz von Wohnraum,1014,False,False,False,0,False
+78,861.625,Mietreglement der Stiftung für preisgünstigen Wohnraum Basel-Stadt,502,False,False,False,0,False
+79,869.100,Interkantonale Vereinbarung für soziale Einrichtungen,853,False,False,False,0,False
+80,869.204,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten einer Alterssiedlung des Gemeinnützigen Vereins für Alterswohnungen an der Gundeldingerstrasse,99,False,False,False,0,False
+81,869.210,Grossratsbeschluss betreffend die Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen der Heilsarmee an der Breisacherstrasse 45,98,False,False,False,0,False
+82,869.301,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten eines Wohn- und Freizeitheimes des Christlichen Vereins junger Frauen Basel am Spalentorweg 10,90,False,False,False,0,False
+83,685.100,Grossratsbeschluss betreffend Anlage und Betrieb von öffentlichen Materiallagerplätzen auf dem Dreispitz,34,False,False,False,0,False
+84,685.360,Kanalisationsreglement für die Dreispitzverwaltung Basel,166,False,False,False,0,False
+85,691.100,Interkantonale Vereinbarung über den Salzverkauf in der Schweiz,138,False,False,False,0,False
+86,695.110,Verordnung zum Gebäudeversicherungsgesetz,352,False,False,False,0,False
+87,717.100,Gesetz über die Ermittlung von Grundstückwerten,135,False,False,False,0,False
+88,721.820,Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über den Autobahnzusammenschluss im Raum Basel und Weil am Rhein,920,False,False,False,0,False
+89,724.110,Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes,1204,False,False,False,0,False
+90,724.500,Verordnung über die Strassenprostitution,29,False,False,False,0,False
+91,730.110,Bau- und Planungsverordnung,2157,True,False,False,1,False
+92,730.115,Ausführungsbestimmungen zur Bau- und Planungsverordnung,1752,False,False,False,0,False
+93,735.250,Reglement betreffend Reinigungsintervalle für Feuerungsanlagen,143,False,False,False,0,False
+94,735.400,Verordnung über die Gebühren der Feuerpolizei,186,False,False,False,0,False
+95,771.610,Convention pour le règlement des rapports entre la Suisse et la France au sujet de certaines clauses du régime juridique de la future dérivation de Kembs,878,False,True,False,1,False
+96,771.920,Verordnung betreffend die Wässerungsverhältnisse am Riehenteich,174,False,False,False,0,False
+97,772.100,Energiegesetz,1256,False,False,False,0,False
+98,772.110,Verordnung zum Energiegesetz,2387,True,False,False,1,False
+99,RiE 980.110,Reglement für die Vergabekommission Entwicklungszusammenarbeit,82,False,False,False,0,False
+100,140.110,Gleichstellungsverordnung,97,False,False,False,0,False
+101,190.100,Gesetz betreffend die Staatsoberaufsicht über die öffentlich-rechtlichen Kirchen und die Israelitische Gemeinde sowie über die Verwendung von Staats- und Gemeindemitteln zu Kirchenzwecken,263,False,False,False,0,False
+102,230.700,"Uebereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg, betreffend die Konkursverhältnisse und gleiche Behandlung der beyderseitigen Staatsangehörigen in Konkursfällen.",225,False,False,False,0,False
+103,230.900,Gesetz betreffend das Gantwesen,452,False,False,False,0,False
+104,300.100,Gesundheitsgesetz,1627,True,False,False,1,False
+105,310.120,Verordnung über die Fachpersonen und Betriebe im Gesundheitswesen,1204,False,False,False,0,False
+106,310.125,Kantonale Verordnung über die Förderung der Ausbildung im Bereich der Pflege,461,False,False,False,0,False
+107,390.100,Bestattungsgesetz,790,False,False,False,0,False
+108,390.500,Verordnung über Gebühren im Bestattungswesen,148,False,False,False,0,False
+109,390.720,"Vertrag betreffend die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Basel-Landschaft namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechtes gemäss § 1 des Gesetzes über das Begräbniswesen",135,False,False,False,0,False
+110,590.100,Gesetz betreffend die Feuerwehr des Kantons Basel-Stadt,162,False,False,False,0,False
+111,590.110,Verordnung zum Gesetz betreffend die Feuerwehr des Kantons Basel-Stadt,233,False,False,False,0,False
+112,610.100,Gesetz über den kantonalen Finanzhaushalt,870,False,False,False,0,False
+113,650.100,Gesetz über die Handänderungssteuer,466,False,False,False,0,False
+114,650.500,Gesetz über die Besteuerung der Motorfahrzeuge,184,False,False,False,0,False
+115,740.110,Verordnung zum Enteignungsgesetz,334,False,False,False,0,False
+116,869.710,Verordnung über die Behindertenhilfe,1676,True,False,False,1,False
+117,910.300,Verordnung betreffend den Vollzug des Bundesgesetzes über die wirtschaftliche Landesversorgung (LVG),166,False,False,False,0,False
+118,910.400,Verordnung zum Bundesgesetz über das Messwesen,66,False,True,False,1,False
+119,911.400,Verordnung betreffend den kantonalen Pflanzenschutzdienst,133,False,False,False,0,False
+120,911.600,Waldgesetz Basel-Stadt,598,False,False,False,0,False
+121,912.200,Wildtier- und Jagdgesetz,835,False,False,False,0,False
+122,912.210,Wildtier- und Jagdverordnung,1117,False,False,False,0,False
+123,912.500,Gesetz über die Fischerei im Kanton Basel-Stadt,49,False,False,False,0,False
+124,919.200,Grossratsbeschluss betreffend Umwandlung der Genossenschaft Schweizer Mustermesse in Basel in die Schweizer Mustermesse AG,63,False,True,False,1,False
+125,951.110,Verordnung zum Gesetz über den öffentlichen Verkehr,56,False,False,False,0,False
+126,952.260,Reglement über Wunschkontrollschilder,167,False,False,False,0,False
+127,952.570,Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten,79,False,False,False,0,False
+128,952.600,"Verordnung über den Betrieb der Parkgaragen Elisabethen, Steinen, City, Storchen und St. Jakob sowie des Parkplatzes St. Jakob",165,False,False,False,0,False
+129,952.860,Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel,117,False,False,False,0,False
+130,953.860,"Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Basellandschaftlichen Ueberlandbahn AG, nachstehend BUeB genannt",105,False,False,False,0,False
+131,953.940,Ausführungsbestimmungen zur Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen,36,False,False,False,0,False
+132,954.420,"Vertrag zwischen dem Deutschen Reich (Eisenbahnfiskus), vertreten durch die Reichsbahndirektion in Karlsruhe, einerseits, dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, und den Schweizerischen Bundesbahnen, vertreten durch die Generaldirektion in Bern, anderseits, betreffend a) den Anschluss der Hafenbahn an den Basel Badischen Verschubbahnhof, b) den Betrieb der Hafenbahn durch die Schweizerischen Bundesbahnen zwischen dem baselstädtischen Rheinhafen Kleinhüningen und dem Basel Badischen Verschubbahnhof",523,False,False,False,0,False
+133,954.520,Übereinkunft betreffend die Weiterführung der Grossherzoglichen Badischen Rheinthal-Eisenbahn durch das Gebiet des Kantons Basel-Stadt,321,False,False,False,0,False
+134,954.540,Übereinkunft betreffend die Erweiterung des Badischen Hauptbahnhofs und die Erstellung eines Rangier- und Werkstättenbahnhofs auf dem Gebiete des Kantons Basel-Stadt,78,False,False,False,0,False
+135,955.100,Vollziehungsverordnung zum Bundesgesetz über die Binnenschifffahrt,203,False,False,False,0,False
+136,955.200,Gesetz über die Rheinschiffahrtsgerichte,90,False,False,False,0,False
+137,955.400,"Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizer Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports»)",1164,True,False,False,1,False
+138,955.480,Abgabetarif der Schweizerischen Rheinhäfen,150,False,False,False,0,False
+139,955.700,"Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten",319,False,False,False,0,False
+140,955.900,Beschluss des Regierungsrates betreffend Zuständigkeit zur Verzeigung von an Bord schweizerischer Seeschiffe begangenen Übertretungen,20,False,False,False,0,False
+141,956.200,Französisch-schweizerischer Staatsvertrag über den Bau und Betrieb des Flughafens Basel-Mülhausen in Blotzheim,729,False,False,False,0,False
+142,956.520,Grossratsbeschluss betreffend Verlängerung der Hauptpiste des Flughafens Basel-Mülhausen sowie Richtlinien über Massnahmen betreffend den Fluglärm aus dem Betrieb des Flughafens Basel-Mülhausen,118,False,False,False,0,False
+143,562.360,Reglement über die Stammbeschickung an der Basler Herbstmesse und am Weihnachtsmarkt,96,False,False,False,0,False
+144,562.530,Verordnung zum Trödel- und Pfandleihgewerbe,479,False,False,False,0,False
+145,563.100,Gesetz über das Gastgewerbe,612,True,False,False,1,False
+146,563.210,Verordnung zum Taxigesetz,517,False,False,False,0,False
+147,568.200,Verordnung über den Vollzug der eidgenössischen Waffengesetzgebung,17,False,False,True,1,False
+148,569.500,Plakatverordnung,315,False,False,False,0,False
+149,575.100,Verordnung über die Wehrpflichtersatzabgabe,76,False,False,False,0,False
+150,576.180,Verordnung über den Kulturgüterschutz,314,False,False,False,0,False
+151,790.100,Gesetz betreffend die Baurekurskommission,60,False,False,False,0,False
+152,890.100,Sozialhilfegesetz,540,False,False,False,0,False
+153,890.700,Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen,550,False,False,False,0,False
+154,111.100,Verfassung des Kantons Basel-Stadt,2110,True,False,False,1,False
+155,118.430,Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz,140,False,False,False,0,False
+156,118.600,Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel,130,False,False,False,0,False
+157,118.700,Vereinbarung über die Organisation der Geschäftsstelle der Trägerschaft für das Agglomerationsprogramm der Agglomeration Basel,120,False,False,False,0,False
+158,211.110,Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch,649,False,False,False,0,False
+159,212.200,Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen,334,False,False,False,0,False
+160,212.500,Verordnung über die Ausbildung der mit Kindesanhörungen und Kindesvertretung beauftragten Personen,73,False,False,False,0,False
+161,212.800,Verordnung zur Einführung des Bundesgesetzes zum Haager Adoptionsübereinkommen,94,False,False,False,0,False
+162,212.850,Einführungsgesetz zum Bundesgesetz über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen,67,False,True,False,1,False
+163,212.910,Ordnung über die Stiftungsaufsicht,300,False,False,False,0,False
+164,214.320,Verordnung über die amtliche Vermessung,699,False,False,False,0,False
+165,214.600,Kantonale Verordnung betreffend die Bewilligungspflicht für den Erwerb von Grundstücken durch Personen im Ausland,50,False,False,False,0,False
+166,215.210,Verordnung zum Bundesgesetz über den Konsumkredit und zur Bundesverordnung zum Konsumkreditgesetz,89,False,False,False,0,False
+167,257.113,Verordnung über die Zuständigkeiten zur Erhebung von bundesrechtlichen Ordnungsbussen,65,False,False,False,0,False
+168,257.115,Verordnung über das kantonale Ordnungsbussenverfahren,125,False,False,False,0,False
+169,257.500,Gesetz über die Einführung der Schweizerischen Jugendstrafprozessordnung,266,False,True,False,1,False
+170,257.820,Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität,506,False,False,False,0,False
+171,257.900,Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten,46,False,False,False,0,False
+172,257.920,Vertrag über die Opferberatungsstellen beider Basel,135,False,False,False,0,False
+173,258.210,Verordnung über den Justizvollzug,1399,False,False,False,0,False
+174,258.300,Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen,572,False,False,False,0,False
+175,258.450,Verordnung über die finanzielle Beteiligung von verurteilten Personen und Eltern an jugendstrafrechtlichen Sanktionen,99,False,True,False,1,False
+176,122.200,Gesetz über Niederlassung und Aufenthalt,357,False,False,False,0,False
+177,122.210,Verordnung über Niederlassung und Aufenthalt,267,False,False,False,0,False
+178,122.300,Gesetz über den Vollzug der Zwangsmassnahmen im Ausländerrecht,217,False,False,False,0,False
+179,123.200,Verordnung über den Vollzug des Bundesgesetzes zur Wahrung der inneren Sicherheit,426,False,False,False,0,False
+180,132.100,Gesetz über Wahlen und Abstimmungen,1153,False,False,False,0,False
+181,132.150,Verordnung über den Testbetrieb für die elektronische Stimmabgabe,258,False,False,False,0,False
+182,132.200,Grossratsbeschluss betreffend Zahl der den Wahlkreisen der Stadt und den Gemeinden Bettingen und Riehen im Grossen Rat zustehende Sitze,29,False,False,False,0,False
+183,152.250,Reglement über die Teilnahme an Abstimmungen in Abwesenheit,129,False,False,False,0,False
+184,152.400,Reglement über Organisation und Aufgaben des Parlamentsdienstes,73,False,False,False,0,False
+185,152.500,Reglement betreffend Akkreditierung der Medienschaffenden und Zutritt zum Grossen Rat,162,False,False,False,0,False
+186,152.900,Gesetz betreffend die Beauftragte/den Beauftragten für das Beschwerdewesen (Ombudsfrau / Ombudsmann) des Kantons Basel-Stadt,389,False,False,False,0,False
+187,153.100,Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt,723,True,False,False,1,False
+188,153.110,Verordnung betreffend die Zuständigkeiten,477,False,False,False,0,False
+189,153.310,Verordnung über den Datenmarkt,165,False,False,False,0,False
+190,153.600,Gesetz über das Archivwesen,422,False,False,False,0,False
+191,153.610,Verordnung über die Registraturen und das Archivieren,752,False,False,False,0,False
+192,153.800,Gesetz über die Verwaltungsgebühren,196,False,False,False,0,False
+193,153.900,Vereinbarung über die Konferenz der Kantonsregierungen,216,False,False,False,0,False
+194,154.112,Personalreglement der Gerichte,255,False,False,False,0,False
+195,154.115,Medien- und Informationsreglement der Gerichte,368,False,False,False,0,False
+196,154.200,Gesetz über das Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht in Sozialversicherungssachen,414,False,False,False,0,False
+197,154.800,Gesetz über die Gerichtsgebühren,88,False,False,False,0,False
+198,160.100,Verordnung über die Personaldienste des Kantons Basel-Stadt,161,False,False,False,0,False
+199,161.100,Gesetz über die Haftung des Staates und seines Personals,200,False,False,False,0,False
+200,162.100,Personalgesetz,918,False,False,False,0,False
+201,162.130,Verordnung betreffend den Wohnsitz von Beamten und Angestellten,50,False,False,False,0,False
+202,162.320,Verordnung betreffend vorzeitige Pensionierung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt,171,False,False,False,0,False
+203,162.420,Verordnung über den Schwangerschafts- und Mutterschaftsurlaub,245,False,False,False,0,False
+204,162.500,Verordnung über den Schutz vor sexueller Belästigung am Arbeitsplatz,351,False,False,False,0,False
+205,163.900,Reglement betreffend Parkieren von Motorfahrzeugen der Mitarbeiterinnen und Mitarbeiter auf Staatsarealen,126,False,False,False,0,False
+206,164.170,Verordnung betreffend ad personam-Einreihung und ad personam-Einstufung,156,False,False,False,0,False
+207,164.250,Verordnung über das Dienstaltersgeschenk gemäss § 23 Lohngesetz,134,False,False,False,0,False
+208,164.340,Verordnung über die Ausrichtung von Unterhaltszulagen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,198,False,False,False,0,False
+209,164.360,Verordnung betreffend Anwendbarkeit des Lohngesetzes auf nicht definitiv Beschäftigte oder nur nebenamtlich im Staatsdienst tätige Mitarbeiterinnen und Mitarbeiter,54,False,False,False,0,False
+210,164.420,Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeitenden des Kantons Basel-Stadt,300,False,False,False,0,False
+211,164.440,Verordnung betreffend Entschädigung der Stellvertretung bei Abwesenheit von Mitarbeitern und Mitarbeiterinnen des Kantons Basel-Stadt,61,False,False,False,0,False
+212,164.560,Verordnung betreffend die Entschädigung für Lehraufträge am Kantonalen Lehrerseminar,182,False,False,False,0,False
+213,164.720,Verordnung betreffend die Entschädigung für die Trainingsleiter am Hochschulsport der Universität Basel,33,False,False,False,0,False
+214,166.500,Verordnung über die Zusammensetzung und die Wahl der Mitglieder der Vorsorgekommission des Kantons (Bereich Staat),169,False,False,False,0,False
+215,169.300,Verordnung betreffend Personalausschüsse in den Departementen und Betrieben des Kantons Basel-Stadt,92,False,False,False,0,False
+216,170.100,Gemeindegesetz,443,False,False,False,0,False
+217,170.110,Verordnung über die Gemeindeaufsicht,5,False,False,True,1,False
+218,171.700,Gesetz betreffend die Ausscheidung der Aktiven der Einwohnergemeinde der Stadt Basel,65,False,False,False,0,False
+219,172.200,Ausscheidungsvertrag,389,False,False,False,0,False
+220,172.400,Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung,143,False,False,False,0,False
+221,140.510,Verordnung zum Gesetz über die Rechte von Menschen mit Behinderungen,68,False,False,False,0,False
+222,190.510,"Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel",845,False,False,False,0,False
+223,300.315,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel,129,False,False,False,0,False
+224,310.170,Verordnung über die Gebühren im Gesundheitswesen,261,False,False,False,0,False
+225,310.420,Verordnung über die Zulassung und Höchstzahlen von ambulanten Leistungserbringern,154,False,False,False,0,False
+226,310.800,Verordnung betreffend Ausrichtung von Inkonvenienzentschädigungen für Geburtshilfe und Wochenbettbetreuung,56,False,False,False,0,False
+227,390.170,Grabmalverordnung,413,False,False,False,0,False
+228,390.760,"Vertrag betreffend die Kremation von Leichen aus dem Kanton Aargau im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Aargau namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechts gemäss § 1 der Vollziehungsverordnung vom 26. Februar 1946 zum Gesetz über das öffentliche Gesundheitswesen des Kantons Aargau vom 28. November 1919",132,False,False,False,0,False
+229,390.860,Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Bettingen anderseits betreffend den Gottesacker Bettingen (nachfolgend Friedhof),159,False,True,False,1,False
+230,390.880,Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Riehen anderseits betreffend den Gottesacker Riehen,317,False,False,False,0,False
+231,390.900,Beschluss des Regierungsrates betreffend Bewilligung eines besonderen israelitischen Friedhofs,151,False,False,False,0,False
+232,460.210,Verordnung über die Gebühren im Bereich der Maturitätskurse für Berufstätige,63,False,False,False,0,False
+233,460.220,Verordnung über die Abschlussprüfungen der Maturitätskurse für Berufstätige,427,False,False,False,0,False
+234,590.200,Verordnung über die von der Feuerwehr zu erhebenden Gebühren,231,False,False,False,0,False
+235,790.150,Verordnung betreffend die Sachverständigen der Baurekurskommission,32,False,False,False,0,False
+236,820.100,Einführungsgesetz zum Bundesgesetz über die Familienzulagen,615,False,False,False,0,False
+237,117.480,Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze beim Margarethenstich,98,False,False,False,0,False
+238,118.750,Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob,308,False,False,False,0,False
+239,212.410,Verordnung zum kantonalen Kindes- und Erwachsenenschutzgesetz,871,True,False,False,1,False
+240,212.470,"Verordnung über die Beiträge der Kinder, Jugendlichen und Eltern an die Kosten der Unterbringung von Kindern und Jugendlichen in Heimen und in Pflegefamilien",272,False,True,False,1,False
+241,214.300,Geoinformationsgesetz,349,False,False,False,0,False
+242,214.307,Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen,143,False,False,False,0,False
+243,214.310,Verordnung über das Grundbuch,645,False,False,False,0,False
+244,214.710,Verordnung betreffend Einführung des Bundesgesetzes über das bäuerliche Bodenrecht,87,False,False,False,0,False
+245,215.450,Verordnung über die Räumung von Wohnräumen im Rahmen des Exmissionsverfahrens,352,False,False,False,0,False
+246,215.600,Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Stadt,732,False,False,False,0,False
+247,215.700,Normalarbeitsvertrag für Arbeitnehmende im Haushalt einschliesslich der 24-Stunden-Betreuung im Kanton Basel-Stadt,1317,True,False,False,1,False
+248,253.100,Übertretungsstrafgesetz,722,False,False,False,0,False
+249,257.110,Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen,170,False,True,False,1,False
+250,257.118,Verordnung betreffend Betteln an neuralgischen und besonders sensiblen Örtlichkeiten,29,False,False,False,0,False
+251,257.120,"Verordnung über die Zusammensetzung, Organisation und Befugnisse der Staatsanwaltschaft",908,False,False,False,0,False
+252,257.815,Verordnung betreffend die Einführung der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten,49,False,False,False,0,False
+253,258.100,Gesetz über die Begnadigung,205,False,False,False,0,False
+254,258.200,Gesetz über den Justizvollzug,760,False,False,False,0,False
+255,258.400,Gesetz über den Vollzug von jugendstrafrechtlichen Sanktionen,474,False,False,False,0,False
+256,258.500,Vertrag zwischen den Kantonen Basel-Stadt und Zug zur Errichtung und zum Betrieb einer gemeinsamen Strafanstalt im Bostadel (Kanton Zug),258,False,False,False,0,False
+257,291.100,Advokaturgesetz,723,False,False,False,0,False
+258,291.900,Reglement über das Anwaltsexamen,265,False,False,False,0,False
+259,292.400,Verordnung über den Notariatstarif,663,False,False,False,0,False
+260,321.200,Vollziehungsverordnung zur eidgenössischen Epidemiengesetzgebung,113,False,False,False,0,False
+261,323.100,Gesetz über Behandlung und Einweisung psychisch kranker Personen,776,False,False,False,0,False
+262,329.110,Verordnung betreffend Beiträge an die unentgeltliche Pflege und Betreuung von dauernd pflegebedürftigen Personen zu Hause,222,False,False,False,0,False
+263,610.150,Verordnung über das zentrale Forderungsinkasso,243,False,False,False,0,False
+264,610.500,Staatsbeitragsgesetz,349,False,False,False,0,False
+265,650.510,Verordnung zum Gesetz über die Besteuerung der Motorfahrzeuge,109,False,False,False,0,False
+266,660.200,Verordnung über den Vollzug der Eidgenössischen Verrechnungssteuer im Kanton Basel-Stadt,85,False,False,False,0,False
+267,RiE 730.350,Reglement über die Organisation der Ortsbildkommission,126,False,False,False,0,False
+268,740.100,Gesetz über Enteignung und Impropriation,1273,True,False,False,1,False
+269,569.100,Gesetz betreffend öffentliche Filmvorführungen und Abgabe von elektronischen Trägermedien,343,False,False,False,0,False
+270,576.800,Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen,99,False,False,False,0,False
+271,576.900,"Vereinbarung zwischen dem Regierungspräsidium Freiburg und dem Kanton Basel-Stadt über die gegenseitige Information bei Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können",135,False,False,False,0,False
+272,576.950,"Vereinbarung zwischen dem Präfekten des Departements Haut-Rhin und dem Kanton Basel-Stadt über die gegenseitige Information über Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können",138,False,False,False,0,False
+273,640.100,Gesetz über die direkten Steuern,8912,True,False,False,1,False
+274,562.320,Verordnung betreffend Messen und Märkte in der Stadt Basel,621,False,False,False,0,False
+275,563.150,Reglement über den Fähigkeitsausweis und über die Durchführung der Wirtefachprüfung (Prüfungsreglement),201,False,False,False,0,False
+276,563.200,Gesetz betreffend das Erbringen von Taxidienstleistungen,383,False,False,False,0,False
+277,563.250,Prüfungsreglement zum Taxigesetz,410,False,False,False,0,False
+278,640.110,Verordnung zum Gesetz über die direkten Steuern,4032,True,False,False,1,False
+279,331.100,Gesetz über die öffentlichen Spitäler des Kantons Basel-Stadt,361,False,False,False,0,False
+280,331.300,Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel,463,False,False,False,0,False
+281,332.640,"Grossratsbeschluss betreffend 1. Gewährung eines Staatsbeitrages an die Um- und Neubauten der ersten Bauetappe des Claraspitals, 2. Übernahme einer Bürgschaft für die von der St. Claraspital AG zu beschaffende I. Hypothek, 3. Projektierungskredit für die zweite Bauetappe des Claraspitals",85,False,False,False,0,False
+282,361.200,Verordnung betreffend die Gebühren und Vergütungen des Kantonalen Veterinäramtes,61,False,False,False,0,False
+283,361.400,Sömmerungsvorschriften des Kantons Basel-Stadt,838,False,False,False,0,False
+284,365.100,Gesetz betreffend das Halten von Hunden,490,False,False,False,0,False
+285,365.500,Verordnung über den Tierschutz,131,False,False,False,0,False
+286,369.400,Beschluss des Regierungsrates betreffend die Gebühren für die Benützung der Tierkörpersammelstelle (TKS) des Veterinäramtes des Kantons Basel-Stadt,31,False,False,False,0,False
+287,410.120,Verordnung über die Rechte und Pflichten der Schülerinnen und Schüler,351,False,True,False,1,False
+288,410.600,Verordnung betreffend Verwaltung und Verwendung des Schulfonds der Primarschule Kleinbasel,30,False,False,False,0,False
+289,410.700,Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen,2774,True,True,False,2,False
+290,411.350,Verordnung für die Schulleitungen der Volksschulen,790,False,False,False,0,False
+291,411.400,Ordnung für die Lehrpersonen,294,False,False,False,0,False
+292,411.600,"Verordnung betreffend Ferien und Urlaub, die ausserordentliche Entlastung und die Stellvertretung von Lehrpersonen an den vom Kanton geführten Schulen",361,False,False,False,0,False
+293,412.100,Vereinbarung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die kommunale Primarstufe,326,False,False,False,0,False
+294,412.600,Verordnung über die Tagesstrukturen und die Ferienangebote,233,False,False,False,0,False
+295,412.750,Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf sowie die Spitalschulung,1093,False,False,False,0,False
+296,414.700,Ordnung betreffend die Benutzung der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt,313,False,False,False,0,False
+297,414.800,Ordnung für die Schulbibliotheken,183,False,False,False,0,False
+298,415.150,Verordnung über die Aufgaben und die Zusammensetzung der Kinder- und Jugendkommission,52,False,False,False,0,False
+299,419.100,Schulgeldverordnung,54,False,False,False,0,False
+300,419.500,Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen,507,False,False,False,0,False
+301,419.630,Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik,280,False,False,False,0,False
+302,419.901,Verordnung der SDK über die Anerkennung kantonaler Ausbildungsabschlüsse im Gesundheitswesen in der Schweiz,234,False,False,False,0,False
+303,421.100,Gesetz betreffend die Allgemeine Gewerbeschule Basel (AGS Basel) und die Schule für Gestaltung Basel (SfG Basel),399,False,False,False,0,False
+304,421.760,Verordnung für den Lehrgang «Link zum Beruf» an der Allgemeinen Gewerbeschule Basel,635,False,False,False,0,False
+305,424.510,Kursgeldverordnung für den Passerellen-Lehrgang,51,False,False,False,0,False
+306,427.920,Verordnung über den Bildungsgang Pflege HF am Bildungszentrum Gesundheit Basel-Stadt,266,False,False,False,0,False
+307,427.950,Verordnung über den Bildungsgang Kindererziehung HF zur diplomierten Kindererzieherin HF / zum diplomierten Kindererzieher HF,550,False,False,False,0,False
+308,428.100,"Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW)",1127,False,False,False,0,False
+309,440.400,Gesetz über das Universitätsgut,100,False,False,False,0,False
+310,440.450,Verordnung betreffend die Unveräusserlichkeit des Universitätsgutes,91,False,True,False,1,False
+311,442.300,Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen,575,False,False,False,0,False
+312,442.400,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel,1312,False,False,False,0,False
+313,442.700,Interkantonale Vereinbarung über den schweizerischen Hochschulbereich,291,False,False,False,0,False
+314,446.420,Vereinbarung zwischen den Kantonen Basel-Stadt und Aargau über die Zusammenarbeit zwischen der Medizinischen Fakultät der Universität Basel und den an der Ausbildung von Medizinstudenten beteiligten Spitälern im Kanton Aargau,81,False,False,False,0,False
+315,447.650,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts,675,False,True,False,1,False
+316,451.800,Eintritts- und Verwaltungs-Ordnung des Anatomischen Museums Basel,90,False,False,False,0,False
+317,453.200,Gesetz über die öffentliche Statistik,417,False,False,False,0,False
+318,491.400,Verordnung für die Verwaltung und Verwendung des Stipendienfonds der Basler Schulen,110,False,False,False,0,False
+319,491.800,Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern,106,False,False,False,0,False
+320,494.100,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen,141,False,False,False,0,False
+321,494.330,Verordnung zur Förderung der Kulturvermittlung im Kanton Basel-Stadt,159,False,False,False,0,False
+322,494.800,Verordnung über die Verwendung des Kunstkredits,211,False,False,False,0,False
+323,497.120,Archäologieverordnung,815,False,True,False,1,False
+324,497.150,Richtlinien der Kommission für Denkmalsubventionen,342,False,False,False,0,False
+325,497.800,Vertrag über die Römerstadt Augusta Raurica,275,False,False,False,0,False
+326,510.110,Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt,768,False,False,False,0,False
+327,510.170,Verordnung betreffend die Kommission für Gewaltschutz,29,False,False,False,0,False
+328,510.300,Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz,217,False,False,False,0,False
+329,510.500,Übereinkunft betreffend die Polizeitransporte,534,True,False,False,1,False
+330,510.700,Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch,1032,True,False,False,1,False
+331,561.100,Einführungsgesetz zum Bundesgesetz über Geldspiele,118,False,False,False,0,False
+332,561.120,Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds,246,False,False,False,0,False
+333,561.121,Verordnung über die Swisslos-Sportfonds-Kommission und die Verwendung der Mittel aus dem Swisslos-Sportfonds,223,False,False,False,0,False
+334,649.200,Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen,221,False,False,False,0,False
+335,649.500,"Grossratsbeschluss betreffend Steuerbefreiung der EUROFIMA, Europäische Gesellschaft für die Finanzierung von Eisenbahnmaterial, im Kanton Basel-Stadt",27,False,False,False,0,False
+336,649.810,Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern,92,False,False,False,0,False
+337,685.320,Verordnung über Bauten auf dem Dreispitz-Areal,408,False,False,False,0,False
+338,685.340,Betriebsreglement für die öffentlichen Materiallagerplätze Basel-Dreispitz (Dreispitz-Verwaltung),1129,True,False,False,1,False
+339,695.100,Gebäudeversicherungsgesetz,566,False,False,False,0,False
+340,695.300,Schatzungs- und Abgrenzungsbestimmungen zum Gebäudeversicherungsgesetz,223,False,False,False,0,False
+341,695.500,Beitragsreglement der Gebäudeversicherung,203,False,False,False,0,False
+342,721.700,Verordnung betreffend den Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960,331,False,False,False,0,False
+343,721.840,Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Strasse zwischen Lörrach und Weil am Rhein auf schweizerischem Gebiet,990,True,False,False,1,False
+344,724.115,Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes,2030,True,False,False,1,False
+345,727.500,Gesetz über Strassenreinigungsbeiträge,23,False,False,False,0,False
+346,727.510,Verordnung zum Gesetz über Strassenreinigungsbeiträge,67,False,False,False,0,False
+347,730.100,Bau- und Planungsgesetz,5008,True,False,False,1,False
+348,730.120,Verordnung über die Gebühren der Baubewilligungsbehörden,270,False,False,False,0,False
+349,730.310,Verordnung über die Erstellung von Parkplätzen für Personenwagen,531,False,False,False,0,False
+350,730.320,Verordnung über die Erstellung von Abstellplätzen für Velos und Mofas,153,False,False,False,0,False
+351,735.200,Verordnung über den Brandschutz,674,False,False,False,0,False
+352,771.300,Gesetz betreffend Einführung des Bundesgesetzes über Nutzbarmachung der Wasserkräfte,49,False,False,False,0,False
+353,771.500,Gesetz über die Nutzung von öffentlichem Fluss- und Grundwasser,161,False,False,False,0,False
+354,771.600,Concession de la Confédération Suisse pour l’extension du remous du Rhin sur territoire suisse jusqu’à l’embouchure de la Birse en vue de la construction et de l’exploitation d’ouvrages sur le Rhin près de Kembs destinés à la production de force hydraulique et à la navigation,3184,False,True,False,1,False
+355,771.940,Grossratsbeschluss betreffend die Durchführung der Verlegung der Kleinbasler Teiche,25,False,False,False,0,False
+356,772.300,Gesetz über die Industriellen Werke Basel,1254,True,False,False,1,False
+357,772.301,Verordnung zur Einführung des neuen IWB-Gesetzes,11,False,True,True,2,True
+358,772.310,Verordnung betreffend Organisation der Energie- und Trinkwasserversorgung,68,False,True,False,1,False
+359,772.350,Verordnung betreffend die von den IWB Industrielle Werke Basel zu entrichtende Konzessionsgebühr,109,False,False,False,0,False
+360,772.430,Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie,450,False,True,False,1,False
+361,772.500,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas,1528,False,True,False,1,False
+362,772.630,Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme,67,False,False,False,0,False
+363,780.750,Verordnung über die Gebühren des Amtes für Umwelt und Energie,167,False,False,False,0,False
+364,781.500,Verordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen infolge austauscharmer Wetterlagen,112,False,False,False,0,False
+365,782.420,Verordnung betreffend Strassenmusik und Strassenkunst,109,False,False,False,0,False
+366,784.300,Verordnung über die Gebühren der Abteilung Stadtentwässerung im Tiefbauamt,166,False,False,False,0,False
+367,784.710,Vertrag zwischen Basel-Stadt und Lörrach über die Ableitung des Schmutzwassers der Kanalisation von Lörrach in den Rhein,390,False,False,False,0,False
+368,784.720,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Gemeinde Inzlingen, Landkreis Lörrach, vertreten durch den Bürgermeister (nachfolgend «Gemeinde» genannt), betreffend den Anschluss des Kanalisationsnetzes der Gemeinde Inzlingen an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel",219,False,False,False,0,False
+369,784.730,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Stadt Weil am Rhein, vertreten durch den Oberbürgermeister (nachfolgend «Stadt» genannt), betreffend den Anschluss der Kanalisation der «Siedlung 14 Linden» an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel",255,False,False,False,0,False
+370,785.150,Richtlinien für die Verwirklichung des Konzeptes über die Abwasserreinigung,108,False,False,False,0,False
+371,786.100,Abfallverordnung,293,False,False,False,0,False
+372,786.170,Gebührentarif der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA),269,False,False,False,0,False
+373,786.370,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch das Baudepartement, und dem Landkreis Lörrach, vertreten durch den Landrat, betreffend die Verbrennung von Siedlungsabfällen in der Kehrichtverbrennunganlage (KVA) Basel",288,False,False,False,0,False
+374,786.400,"Vertrag zwischen Ciba-Geigy AG, Basel, und Kanton Basel-Stadt, vertreten durch den Regierungsrat, Kanton Basel-Landschaft, vertreten durch den Regierungsrat, betreffend Sonderabfallverbrennung",216,False,False,False,0,False
+375,789.100,Gesetz über den Natur- und Landschaftsschutz,717,False,False,False,0,False
+376,789.110,Verordnung über den Natur- und Landschaftsschutz,866,False,False,False,0,False
+377,789.700,Baumschutzgesetz,284,False,False,False,0,False
+378,810.140,Verordnung über die vom Amt für Wirtschaft und Arbeit zu erhebenden Gebühren,129,False,False,False,0,False
+379,812.810,Verordnung zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten,43,False,False,False,0,False
+380,819.179,Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie im Jahr 2022,379,False,False,False,0,False
+381,819.600,Verordnung über die Meldepflicht der Arbeitgeber bei bevorstehenden Entlassungen,81,False,False,False,0,False
+382,819.850,Reglement betreffend Gewährung von Bürgschaften,81,False,False,False,0,False
+383,819.879,Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie,395,False,False,False,0,False
+384,831.300,Verordnung über die Erhebung von Sondergebühren durch die Kantonale Ausgleichskasse/AHV,21,False,True,False,1,False
+385,832.750,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Riehen,186,False,False,False,0,False
+386,834.420,Entfernung der Pflegeheimliste aus der Gesetzessammlung,38,False,False,False,0,False
+387,835.200,Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit,78,False,False,False,0,False
+388,835.600,Beschluss des Regierungsrates betreffend Arbeitslosenfonds in Auflösung,161,False,False,False,0,False
+389,861.250,Verordnung betreffend den Wohnflächenanteil,104,False,False,False,0,False
+390,869.209,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen des Vereins für Kranken- und Hauspflege St. Matthäus am Bläsiring 98,114,False,False,False,0,False
+391,869.501,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Genossenschaft für die Sozialwerke der Heilsarmee für den Umbau des Männerheimes «Hospiz Rheinblick» am Oberen Rheinweg 75 in Basel,122,False,False,False,0,False
+392,869.750,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten,174,False,False,False,0,False
+393,910.200,Standortförderungsgesetz,559,False,False,False,0,False
+394,910.210,Verordnung zum Standortförderungsgesetz,1250,False,False,False,0,False
+395,910.230,Verordnung zum Stadtbelebungsfonds,125,False,False,False,0,False
+396,910.500,Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse,181,False,False,False,0,False
+397,911.900,Gesetz über Freizeitgärten,189,False,False,False,0,False
+398,914.200,Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen,110,False,False,False,0,False
+399,914.210,Einführungsverordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen,585,False,False,False,0,False
+400,914.600,Interkantonale Vereinbarung über das öffentliche Beschaffungswesen,2527,True,False,False,1,False
+401,951.100,Gesetz über den öffentlichen Verkehr,459,False,False,False,0,False
+402,952.601,"Vorschriften über die Benutzung der Parkhäuser City, Elisabethen, Steinen und Storchen sowie St. Jakob mit Aussenparkfläche",166,False,False,False,0,False
+403,952.610,Tarifordnung betreffend die Parkhäuser Basel-Stadt,188,False,False,False,0,False
+404,952.700,Gesetz gegen den Bau von öffentlichen Autoparkgaragen in der Innerstadt,43,False,False,False,0,False
+405,953.800,Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG,284,False,False,False,0,False
+406,953.820,"Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Trambahngesellschaft Basel-Aesch AG, nachstehend TBA genannt",102,False,False,False,0,False
+407,954.400,Bundesbeschluss betreffend Konzession einer normalspurigen Güterbahn vom Rheinhafen Kleinhüningen zum Badischen Verschubbahnhof in Basel,252,False,False,False,0,False
+408,954.510,"Vertrag zwischen der schweizerischen Eidgenossenschaft und dem Grossherzogtum Baden, betreffend die Weiterführung der badischen Eisenbahnen über schweizerisches Gebiet",772,False,False,False,0,False
+409,954.550,"Vertrag über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglich Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen",441,False,False,False,0,False
+410,954.551,"Nachtrags-Vertrag zum Vertrag vom 24./31. März 1900 über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglichen Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen",231,False,False,False,0,False
+411,954.560,Vereinbarung über die deutschen Eisenbahnstrecken auf Schweizer Gebiet,441,False,False,False,0,False
+412,955.460,Hafenordnung für die Rheinhäfen beider Basel,2066,False,False,False,0,False
+413,955.470,Gebührentarif der Schweizerischen Rheinhäfen,493,False,False,False,0,False
+414,956.300,Notenwechsel vom 15. Mai 1965 betreffend Erhebung der Umsatzsteuer auf den Bau- und Einrichtungsarbeiten des Flughafens Basel-Mülhausen,250,False,False,False,0,False
+415,119.500,Gesetz über die internationale Zusammenarbeit zwecks Armutsbekämpfung und Stärkung der nachhaltigen Entwicklung,120,False,False,False,0,False
+416,121.100,Bürgerrechtsgesetz,424,False,False,False,0,False
+417,121.110,Verordnung zum Bürgerrechtsgesetz,623,False,True,False,1,False
+418,122.700,Verordnung über die Gebühren für die Bewilligung der Beschäftigung ausländischer Arbeitskräfte,61,False,False,False,0,False
+419,131.100,Gesetz betreffend Initiative und Referendum,874,False,True,False,1,False
+420,133.300,Verordnung über das Vernehmlassungsverfahren,92,False,False,False,0,False
+421,151.100,Gesetz betreffend Ausstattung der neuen Gesamtausgabe der Basler Gesetzessammlung mit negativer Rechtskraft,20,False,False,False,0,False
+422,151.210,Verordnung zum Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt,282,False,False,False,0,False
+423,152.100,Gesetz über die Geschäftsordnung des Grossen Rates,1620,True,False,False,1,False
+424,153.115,Weisung betreffend Ausrichtung von Sitzungsgeldern,197,False,False,False,0,False
+425,153.150,Verordnung betreffend Organisation und Kompetenzen der Departemente und übrigen Verwaltungseinheiten,16,False,False,True,1,False
+426,153.260,Gesetz über die Information und den Datenschutz,1363,False,False,False,0,False
+427,153.275,Verordnung über den Einsatz von unbemannten Luftfahrzeugen bei der Kantonspolizei als Pilotversuch,280,False,False,False,0,False
+428,153.280,Geschäftsordnung des Regierungsrates zum Gesetz über die Information und den Datenschutz,161,False,False,False,0,False
+429,153.320,Verordnung über die Informationssicherheit,299,False,False,False,0,False
+430,153.350,Verordnung über die IT-Governance der kantonalen Verwaltung,158,False,False,False,0,False
+431,153.500,Verordnung über die Mitwirkung der Quartierbevölkerung,34,False,False,False,0,False
+432,RiE 153.300,Reglement über die Informationssicherheit der Gemeinde Riehen,455,False,False,False,0,False
+433,154.110,Organisations- und Verfahrensreglement des Gerichtsrats,304,False,False,False,0,False
+434,154.120,Reglement über das Dolmetscherwesen an den Gerichten,313,False,False,False,0,False
+435,154.123,"Reglement über das von den Präsidentinnen und Präsidenten, nebenamtlichen Richterinnen und Richtern, Gerichtsschreiberinnen und Gerichtsschreibern sowie den Mitarbeitenden der Gerichte abzulegende Handgelübde",229,False,False,False,0,False
+436,154.125,"Reglement über das Finanz- und Rechnungswesen, das Inkasso- und das Nachzahlungsverfahren der Gerichte",242,False,False,False,0,False
+437,154.130,Verordnung betreffend das Arbeitsgericht,71,False,False,False,0,False
+438,154.160,Organisationsreglement des Gerichts für fürsorgerische Unterbringungen,181,False,False,False,0,False
+439,154.190,Organisationsreglement des Jugendgerichts,171,False,False,False,0,False
+440,154.810,Reglement über die Gerichtsgebühren,950,False,False,False,0,False
+441,154.980,Verordnung betreffend die Verfahrenskosten für die Strafverfolgungsbehörden,336,False,False,False,0,False
+442,162.110,Verordnung zum Personalgesetz,540,False,False,False,0,False
+443,162.410,Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,739,False,False,False,0,False
+444,162.880,Verordnung über dienstrechtliche Bestimmungen zur Einführung des Bundesgesetzes über die verdeckte Ermittlung,198,False,False,False,0,False
+445,162.890,Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel,366,False,False,False,0,False
+446,164.540,Verordnung betreffend Mischpensen,81,False,False,False,0,False
+447,166.100,Gesetz betreffend die Pensionskasse Basel-Stadt,563,False,False,False,0,False
+448,169.200,Verordnung über die Sozialpartnerschaftliche Zusammenarbeit in der Kantonalen Verwaltung Basel-Stadt,183,False,False,False,0,False
+449,169.600,Verordnung betreffend das Ideen-Management in der öffentlichen Verwaltung Basel-Stadt,284,False,False,False,0,False
+450,170.610,Verordnung zum Finanz- und Lastenausgleichgesetz,53,False,False,False,0,False
+451,171.300,Gesetz betreffend Verschmelzung der Gemeinde Kleinhüningen mit der Stadt Basel,206,False,False,False,0,False
+452,171.510,Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen im Geviert Bäumlihof,58,False,False,False,0,False
+453,171.600,Urkunde zur Sicherstellung des in die kantonale Verwaltung übergegangenen Vermögens der Stadtgemeinde Basel,167,False,False,False,0,False
+454,211.100,Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches,2484,True,False,False,1,False
+455,BeE 832.755,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen,193,False,False,False,0,False
+456,140.100,Kantonales Gleichstellungsgesetz zu Geschlecht und sexueller Orientierung,416,False,False,False,0,False
+457,140.500,Gesetz über die Rechte von Menschen mit Behinderungen,317,False,False,False,0,False
+458,190.110,Verordnung zum Kirchengesetz,73,False,True,False,1,False
+459,190.500,Convention conclue relativement à la Réorganisation et nouvelle circonscription de l’Evêché de Bâle,983,False,True,False,1,False
+460,230.100,Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs,169,False,False,False,0,False
+461,230.710,"Uebereinkunft zwischen den schweizerischen Kantonen Zürich, Bern, Luzern, Unterwalden (ob und nid dem Wald), Freyburg, Solothurn, Basel (Stadt- und Landtheil), Schaffhausen, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg und Genf, sowie Appenzell Ausser-Rhoden, und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen",237,False,False,False,0,False
+462,270.100,Gesetz über die Verfassungs- und Verwaltungsrechtspflege,797,True,False,False,1,False
+463,300.150,Vollziehungsverordnung zum Bundesgesetz über Tabakprodukte und elektronische Zigaretten,31,False,False,False,0,False
+464,300.400,Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz,261,False,False,False,0,False
+465,300.600,Gesetz über das Universitäre Zentrum für Zahnmedizin Basel,377,False,False,False,0,False
+466,310.140,Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen,200,False,False,False,0,False
+467,390.110,Bestattungsverordnung,609,False,False,False,0,False
+468,390.115,Reglement über das Bestattungs- und Friedhofwesen,1260,False,False,False,0,False
+469,390.740,"Vertrag betreffend die Kremation von Leichen aus der Gemeinde Dornach im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch das Sanitätsdepartement, und der Gemeinde Dornach (Kanton Solothurn), vertreten durch ihren Gemeinderat",150,False,False,False,0,False
+470,460.200,Verordnung über die Maturitätskurse für Berufstätige,292,False,False,False,0,False
+471,610.110,Verordnung zum Gesetz über den kantonalen Finanzhaushalt,1301,False,False,False,0,False
+472,610.200,Finanz- und Verwaltungskontrollgesetz,468,False,False,False,0,False
+473,650.400,Gesetz betreffend die Erhebung einer Gasttaxe,269,False,False,False,0,False
+474,650.410,Verordnung zum Gesetz betreffend die Erhebung einer Gasttaxe,114,False,False,False,0,False
+475,660.100,Verordnung über den Vollzug der direkten Bundessteuer,103,False,False,False,0,False
+476,670.100,Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich,478,False,False,False,0,False
+477,740.500,Verordnung betreffend die Entschädigung der Expropriationskommission,28,False,True,False,1,False
+478,869.560,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten eines Lehrlingsheimes der Stiftung zugunsten eines Lehrlingsheimes und CVJM-Hauses an der Gempenstrasse 64 in Basel,100,False,False,False,0,False
+479,869.700,Gesetz über die Behindertenhilfe,1123,True,False,False,1,False
+480,911.200,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes,125,False,False,False,0,False
+481,911.610,Verordnung zum Waldgesetz Basel-Stadt,804,False,False,False,0,False
+482,911.700,Vereinbarung über das Amt für Wald und Wild beider Basel,102,False,False,False,0,False
+483,912.510,Verordnung über die Fischerei im Kanton Basel-Stadt,836,False,False,False,0,False
+484,915.200,Gesetz über die Basler Kantonalbank,663,False,False,False,0,False
+485,952.200,Verordnung über den Strassenverkehr,1138,False,False,False,0,False
+486,952.250,Reglement über die Versteigerung von Kontrollschildern im Internet,175,False,False,False,0,False
+487,952.300,Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt,297,False,False,False,0,False
+488,952.560,Verordnung über die Parkraumbewirtschaftung,825,False,False,False,0,False
+489,952.800,Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel,188,False,False,False,0,False
+490,952.801,"Vereinbarung über eine gemeinsame Prüfstation in der «Unteren Wanne», Münchenstein",36,False,False,False,0,False
+491,952.820,"Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen",197,False,False,False,0,False
+492,953.100,Organisationsgesetz der Basler Verkehrs-Betriebe,509,False,False,False,0,False
+493,953.840,Vertrag zwischen den Basler Verkehrs-Betrieben (BV) und der BLT Baselland Transport AG (BLT) betreffend den Betrieb auf den Teilstrecken Basel-Aeschenplatz–Kantonsgrenze–Ruchfeld,143,False,False,False,0,False
+494,953.900,"Vereinbarung zwischen den Schweizerischen Bundesbahnen (SBB) den Schweizerischen PTT-Betrieben (PTT) den Basler Verkehrs-Betrieben (BVB) der BLT Baselland Transport AG (BLT) und den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Jura, Solothurn betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990",357,False,False,False,0,False
+495,953.930,Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen,224,False,False,False,0,False
+496,954.511,"Vereinbarung betreffend das DB-Güterbahnhofareal in Basel zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat des Kantons Basel-Stadt, und der Bundesrepublik Deutschland, vertreten durch das Bundeseisenbahnvermögen",50,False,False,False,0,False
+497,954.530,Übereinkunft betreffend die Herstellung einer Wiesenthaleisenbahn,156,False,False,False,0,False
+498,956.400,"Vereinbarung zwischen der Schweizerischen Eidgenossenschaft vertreten durch den Schweizerischen Bundesrat und den Kantonen Basel-Stadt und Basel-Landschaft, jeweils vertreten durch den Regierungsrat betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen",434,False,False,False,0,False
+499,956.500,Grossratsbeschluss betreffend Ausbau des Flughafens Basel-Mülhausen (II. Etappe des Erstausbaus),50,False,False,False,0,False
+500,956.550,Vereinbarung über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen,314,False,False,False,0,False
+501,740.800,Verordnung betreffend den Vollzug des eidgenössischen Enteignungsrechts,36,False,False,False,0,False
+502,820.550,Beschluss des Regierungsrates betreffend Festsetzung des Arbeitgeberbeitrages an die Familienausgleichskasse Basel-Stadt,16,False,True,True,2,True
+503,890.500,Gesetz über die Ausrichtung von Mietbeiträgen,191,False,False,False,0,False
+504,890.510,Verordnung zum Gesetz über die Ausrichtung von Mietbeiträgen,291,False,False,False,0,False
+505,890.710,Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen,1698,True,False,False,1,False
+506,890.800,Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl,285,False,False,False,0,False
+507,117.460,Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Verlegung der Kantonsgrenze bei der Batterie,223,False,False,False,0,False
+508,117.470,Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze zwischen Basel und Münchenstein im Gebiet der Reinacherstrasse (Dreispitzareal),116,False,False,False,0,False
+509,117.490,"Übereinkommen zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Änderung des Grenzverlaufs im Gebiet St. Jakobs-Strasse, Brüglingerstrasse und Münchensteinerstrasse",132,False,False,False,0,False
+510,118.300,Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Zusammenarbeit der Behörden,227,False,False,False,0,False
+511,118.400,Vereinbarung über die Nordwestschweizer Regierungskonferenz,262,False,False,False,0,False
+512,119.100,"Übereinkommen zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen",790,False,False,False,0,False
+513,562.300,Gesetz über die Basler Herbstmesse,99,False,False,False,0,False
+514,562.350,Gebührenverordnung betreffend Messen und Märkte in der Stadt Basel,47,False,False,False,0,False
+515,562.400,Verordnung über die Einführung des Bundesgesetzes über das Gewerbe der Reisenden,46,False,False,False,0,False
+516,563.110,Verordnung zum Gastgewerbegesetz,409,False,False,False,0,False
+517,563.130,Verordnung zum Bundesgesetz über die gebrannten Wasser,82,False,False,False,0,False
+518,563.170,Gebührenverordnung zum Gastgewerbegesetz,136,False,False,False,0,False
+519,563.280,Tarifverordnung zum Taxigesetz,138,False,False,False,0,False
+520,563.500,Verordnung über die Bewilligung für die regelmässige und gewerbsmässige Personenbeförderung,151,False,False,False,0,False
+521,568.400,Verordnung über explosionsgefährliche Stoffe,133,False,False,False,0,False
+522,569.110,Verordnung zum Gesetz betreffend öffentliche Filmvorführungen und Abgabe von elektronischen Trägermedien,24,False,False,False,0,False
+523,569.150,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Departementsvorsteher des Erziehungsdepartements, Regierungsrat Dr. Christoph Eymann, Leimenstrasse 1, 4001 Basel, und dem Kanton Basel-Landschaft, vertreten durch den Vorsteher der Sicherheitsdirektion, Regierungsrat Isaac Reber, Rathausstrasse 2, 4410 Liestal, betreffend gemeinsame Medienkommission beider Basel",130,False,False,False,0,False
+524,571.300,Verordnung über die Disziplinarstrafgewalt in der Militärverwaltung,33,False,False,False,0,False
+525,576.100,Gesetz über den Zivilschutz und den Kulturgüterschutz,231,False,False,False,0,False
+526,576.150,Verordnung über den Zivilschutz,149,False,False,False,0,False
+527,576.170,Gebührenverordnung für den Zivil- und Kulturgüterschutz,110,False,False,False,0,False
+528,119.400,"Vereinbarung zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Raum Oberrhein",211,False,False,False,0,False
+529,119.510,Verordnung über die internationale Zusammenarbeit zwecks Armutsbekämpfung und Stärkung der nachhaltigen Entwicklung,370,False,False,False,0,False
+530,122.250,Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe,198,False,False,False,0,False
+531,122.500,Gesetz über die Integration der Migrationsbevölkerung,298,False,False,False,0,False
+532,122.510,Verordnung zum Gesetz über die Integration der Migrationsbevölkerung,295,False,False,False,0,False
+533,123.400,Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,359,False,False,False,0,False
+534,123.410,Verordnung betreffend die Umsetzung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,189,False,False,False,0,False
+535,132.110,Verordnung zum Gesetz über Wahlen und Abstimmungen,865,False,False,False,0,False
+536,138.100,"Gesetz betreffend den Austritt in Behörden, die Beschränkung der Stimmgebung bei Wahlen und die Ausschliessung der Wählbarkeit von Verwandten zu Mitgliedern von Behörden",256,False,False,False,0,False
+537,138.200,Gesetz betreffend das Verfahren bei Unvereinbarkeit von öffentlichen Stellungen,68,False,False,False,0,False
+538,151.200,Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt,128,False,False,False,0,False
+539,152.110,Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates,1109,False,False,False,0,False
+540,152.150,Reglement zum Schutz der persönlichen Integrität der Grossratsmitglieder des Kantons Basel-Stadt,247,False,False,False,0,False
+541,152.330,Ausgabenreglement für die Grossratskommissionen,118,False,False,False,0,False
+542,153.180,Beschluss des Regierungsrates betreffend Neuordnung des Verwaltungs- und Rekursverfahrens,27,False,False,False,0,False
+543,153.200,Verordnung über die Kantonale Krisenorganisation,373,False,False,False,0,False
+544,153.270,Verordnung über die Information und den Datenschutz,926,True,False,False,1,False
+545,153.300,Gesetz über ein zentrales elektronisches Behördenportal,265,False,False,False,0,False
+546,153.330,Weisung des Regierungsrates betreffend die Aufnahme von Telephongesprächen in der Verwaltung,51,False,False,False,0,False
+547,153.340,Verordnung über die Einbindung des Authentifizierungsdienstes der Schweizer Behörden AGOV in das zentrale elektronische Behördenportal,30,False,False,False,0,False
+548,153.700,Verordnung betreffend die zentrale elektronische Bewilligungsplattform,461,False,False,False,0,False
+549,153.810,Verordnung zum Gesetz über die Verwaltungsgebühren,257,False,False,False,0,False
+550,154.100,Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft,2403,True,False,False,1,False
+551,154.118,Reglement zur Aufbewahrung und Archivierung von Unterlagen der Gerichte Basel-Stadt,299,False,False,False,0,False
+552,154.128,Reglement über das Informatikmanagement an den Gerichten,222,False,False,False,0,False
+553,154.150,Organisationsreglement des Appellationsgerichts,781,False,False,False,0,False
+554,154.170,Organisationsreglement des Zivilgerichts,277,False,False,False,0,False
+555,154.180,Organisationsreglement des Strafgerichts,333,False,False,False,0,False
+556,154.250,Reglement des Sozialversicherungsgerichts und des Schiedsgerichts in Sozialversicherungssachen,148,False,False,False,0,False
+557,154.300,Entschädigungsreglement der Gerichte Basel-Stadt,306,False,False,False,0,False
+558,162.200,Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,916,False,False,False,0,False
+559,162.300,Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen,37,False,False,False,0,False
+560,162.600,Verordnung betreffend Meldung von Missständen,108,False,False,False,0,False
+561,163.200,Verordnung betreffend Dienstwohnungen,290,False,False,False,0,False
+562,163.400,Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt,83,False,False,False,0,False
+563,164.100,Lohngesetz,733,False,False,False,0,False
+564,164.150,Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeitenden des Kantons Basel-Stadt,344,False,False,False,0,False
+565,164.160,Verordnung über die Beschleunigung und die Verzögerung des Stufenaufstiegs gemäss § 10 des Lohngesetzes,109,False,False,False,0,False
+566,164.180,Verordnung betreffend Wahl und Organisation der Begutachtungskommission,107,False,False,False,0,False
+567,164.200,Verordnung über die Ausrichtung von Anerkennungsprämien an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,157,False,False,False,0,False
+568,164.410,Verordnung betreffend Zulagen gemäss § 15a Lohngesetz,287,False,False,False,0,False
+569,164.430,Verordnung betreffend Lohnnebenleistungen,47,False,False,False,0,False
+570,164.520,Verordnung betreffend Festlegung der Löhne von Lehrpersonen als Aushilfen sowie für Stellvertretungen,320,False,False,False,0,False
+571,164.680,Verordnung betreffend die Entschädigung für Lehraufträge am Institut für Spezielle Pädagogik und Psychologie (ISP),136,False,False,False,0,False
+572,164.700,Verordnung betreffend die Entschädigung für Lehraufträge am Turnlehrerkurs der Universität Basel,158,False,False,False,0,False
+573,165.100,Gesetz betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit,205,False,False,False,0,False
+574,170.600,Finanz- und Lastenausgleichgesetz,219,False,False,False,0,False
+575,171.310,Bekanntmachung betreffend das Inkrafttreten des Gesetzes über die Verschmelzung der Gemeinde Kleinhüningen mit der Stadt Basel,67,False,False,False,0,False
+576,171.500,Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen,58,False,False,False,0,False
+577,177.600,Grossratsbeschluss betreffend die Verhältnisse der Gemeinden Riehen und Bettingen,66,False,False,False,0,False
+578,649.800,Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken,175,False,False,False,0,False
+579,685.200,Verträge zwischen der Einwohnergemeinde der Stadt Basel und der Christoph Merian Stiftung über das Dreispitzareal,152,False,True,False,1,False
+580,695.400,Prämienbestimmungen zum Gebäudeversicherungsgesetz,235,False,False,False,0,False
+581,695.600,Prämienermässigungsreglement der Gebäudeversicherung,72,False,False,False,0,False
+582,717.110,Verordnung betreffend den Vollzug des Gesetzes über die Ermittlung von Grundstückwerten vom 20. Juni 1968 und über die zu erhebenden Gebühren,84,False,False,False,0,False
+583,724.100,Gesetz über die Nutzung des öffentlichen Raumes,725,False,False,False,0,False
+584,724.140,Verordnung über die Inanspruchnahme der Allmend,447,False,False,False,0,False
+585,724.300,Vorschriften des Baudepartementes für die Ausführung von Grabarbeiten in der Allmend,703,False,False,False,0,False
+586,724.910,Gebührenverordnung zum Gesetz über die Nutzung des öffentlichen Raumes,704,False,False,False,0,False
+587,730.210,Kantonale Verordnung über Fuss- und Wanderwege,400,False,False,False,0,False
+588,730.700,Verordnung über Beiträge an die Kosten der Beseitigung von Sprayereien an privaten Liegenschaften,98,False,False,False,0,False
+589,771.310,Verordnung zum Gesetz betreffend Einführung des Bundesgesetzes über Nutzbarmachung der Wasserkräfte,83,False,False,False,0,False
+590,771.510,Verordnung zum Gesetz über die Nutzung von öffentlichem Fluss- und Grundwasser,229,False,False,False,0,False
+591,771.700,Staatsvertrag über Wasserbenützung aus der Wiese abgeschlossen zwischen dem Markgrafen Karl Friedrich von Baden und Bürgermeister und Rat der Stadt Basel am 16./25. August 1756,364,False,False,False,0,False
+592,771.710,Vereinbarung betreffend Sicherung des Vollzugs des Staatsvertrages vom 16./25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese,453,False,False,False,0,False
+593,771.720,Vereinbarung betreffend Änderung der am 19. Oktober 1894 vereinbarten Vollzugsbestimmungen zum Staatsvertrage vom 16. und 25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese,547,False,False,False,0,False
+594,772.140,Verordnung zur Lenkungsabgabe und zum Strompreis-Bonus,578,False,False,False,0,False
+595,772.150,Beschluss des Regierungsrates betreffend Erhebung einer Förderabgabe zur Finanzierung der sich aus dem Energiegesetz ergebenden finanziellen Verpflichtungen,40,False,False,False,0,False
+596,772.180,Verordnung betreffend Entschädigungen und Beiträge aufgrund der Einstellung der Gasversorgung,457,False,False,False,0,False
+597,772.380,Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme,269,False,False,False,0,False
+598,772.420,Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität,1091,False,True,False,1,False
+599,772.580,Verordnung betreffend Ausführung des Bundesgesetzes über Rohrleitungsanlagen,95,False,False,False,0,False
+600,772.830,Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser,201,False,False,False,0,False
+601,780.100,Umweltschutzgesetz Basel-Stadt,1897,True,False,False,1,False
+602,780.350,Verordnung über umweltfreundliche Verkehrsmittel,288,False,False,False,0,False
+603,780.360,Verordnung über die Förderung der Ladeinfrastruktur für Elektroautos,226,False,False,False,0,False
+604,780.400,Gesetz betreffend den Schutz der Bevölkerung vor Atomkraftwerken,34,False,False,False,0,False
+605,780.900,Verordnung über die Gebühren des Kantonalen Laboratoriums im Bereich der Umweltschutzgesetzgebung,95,False,False,False,0,False
+606,781.220,Verordnung über die Verschärfung von Emissionsbegrenzungen für stationäre Anlagen,410,False,False,False,0,False
+607,782.100,Lärmschutzverordnung Basel-Stadt,314,False,False,False,0,False
+608,783.200,Kantonale Gewässerschutzverordnung,702,False,False,False,0,False
+609,785.720,"Vertrag zwischen dem Kanton Basel-Stadt, dem Kanton Basel-Landschaft, den Firmen Ciba-Geigy AG, in Basel, F. Hoffmann-La Roche & Co. AG, in Basel, Sandoz AG, in Basel, betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen",768,False,False,False,0,False
+610,786.150,Verordnung über Abfallsammlungen in der Stadt Basel,291,False,False,False,0,False
+611,787.100,Bodenschutzverordnung Basel-Stadt,134,False,False,False,0,False
+612,789.600,Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet,761,False,False,False,0,False
+613,789.730,Grossratsbeschluss betreffend Erweiterung der Baumschutzgebiete im Kanton Basel-Stadt,29,False,False,False,0,False
+614,789.750,Beschluss des Regierungsrates betreffend den Schutz der Rheinhalde,25,False,False,False,0,False
+615,811.100,Gesetz über öffentliche Ruhetage und Ladenöffnung,166,False,False,False,0,False
+616,811.110,Verordnung zum Gesetz über öffentliche Ruhetage und Ladenöffnung,118,False,False,False,0,False
+617,812.100,"Einführungsgesetz zum Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",192,False,False,False,0,False
+618,812.210,Verordnung über den kantonalen Mindestlohn,187,False,False,False,0,False
+619,812.350,Verordnung betreffend Arbeits- und Ruhezeit der Taxifahrerinnen und Taxifahrer im Kanton Basel-Stadt,193,False,False,False,0,False
+620,812.500,Verordnung betreffend den Vollzug des Bundesgesetzes über die Heimarbeit vom 20. März 1981,99,False,False,False,0,False
+621,812.900,Verordnung zum Bundesgesetz über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer,189,False,False,False,0,False
+622,813.310,Vollziehungsverordnung zum Gesetz betreffend das ständige staatliche Einigungsamt vom 9. November 1911,699,False,True,False,1,False
+623,813.400,Verordnung über das Verfahren vor dem Einigungsamt als vertraglichem Schiedsgericht,389,False,False,False,0,False
+624,815.100,Gesetz betreffend Tagesbetreuung von Kindern,547,False,False,False,0,False
+625,815.110,Verordnung über die Betreuung von Kindern in Kindertagesstätten und Tagesfamilien,647,False,False,False,0,False
+626,815.120,Verordnung über die Betreuungsbeiträge in Kindertagesstätten und Tagesfamilien und die Leistungen an Eltern,458,False,False,False,0,False
+627,819.400,Gesetz betreffend die Gewährung von Steuervergütungen auf Arbeitsbeschaffungsreserven,176,False,False,False,0,False
+628,819.510,Verordnung über die Arbeitsvermittlung und den Personalverleih,35,False,False,False,0,False
+629,819.610,Verordnung über die Kontrolle und Finanzierung der Stellenmeldepflicht,48,False,False,False,0,False
+630,819.870,Verordnung betreffend Gewährung von Bürgschaften im Zusammenhang mit der COVID-19-Pandemie,97,False,False,False,0,False
+631,831.290,Verordnung über die Erhebung von Verwaltungskostenbeiträgen durch die Kantonale Ausgleichskasse/AHV,82,False,False,False,0,False
+632,832.720,Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen,748,False,False,False,0,False
+633,832.755,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen,193,False,False,False,0,False
+634,834.400,Gesetz über die Krankenversicherung im Kanton Basel-Stadt,419,False,False,False,0,False
+635,834.410,Verordnung über die Krankenversicherung im Kanton Basel-Stadt,1099,False,False,False,0,False
+636,835.150,Verordnung betreffend Zuständigkeit und Organisation beim Vollzug der Arbeitslosenversicherung im Kanton Basel-Stadt,130,False,False,False,0,False
+637,835.210,Verordnung zum Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit,49,False,False,False,0,False
+638,835.350,Reglement der Öffentlichen Arbeitslosenkasse Basel-Stadt,52,False,False,False,0,False
+639,835.500,Gesetz betreffend kantonale Arbeitslosenhilfe,184,False,False,False,0,False
+640,861.500,Gesetz über die Wohnraumförderung,1143,False,False,False,0,False
+641,861.600,Gesetz über die Stiftung für preisgünstigen Wohnraum Basel-Stadt,434,False,False,False,0,False
+642,861.626,Richtlinien zur Mietzinsgestaltung der Stiftung für preisgünstigen Wohnraum Basel-Stadt,134,False,False,False,0,False
+643,869.205,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten einer Alterssiedlung der Christoph Merian Stiftung auf dem Sesselacker,82,False,False,False,0,False
+644,333.100,Interkantonale Vereinbarung über die hochspezialisierte Medizin,360,False,False,False,0,False
+645,339.240,Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft,219,False,False,False,0,False
+646,340.100,Heilmittelverordnung,514,False,False,False,0,False
+647,340.250,Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates,252,False,False,False,0,False
+648,340.500,Kantonale Verordnung betreffend Betäubungsmittel,52,False,False,False,0,False
+649,340.800,Verordnung über Chemikalien,133,False,False,False,0,False
+650,351.310,Verordnung betreffend Gebühren des Kantonalen Laboratoriums im administrativen Bereich,52,False,False,False,0,False
+651,365.101,Regierungsratsbeschluss betreffend Liste der als potentiell gefährlich eingestuften Hunderassen und deren Kreuzungen gemäss § 14 Abs. 2 des Gesetzes betreffend das Halten von Hunden (Hundegesetz),37,False,False,False,0,False
+652,365.110,Verordnung betreffend das Halten von Hunden,903,False,False,False,0,False
+653,365.300,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Durchführung von Kontrollen auf Tierhaltungsbetrieben im Kanton Basel-Stadt,84,False,False,False,0,False
+654,365.540,Reglement betreffend das Halten gefährlicher Tiere,176,False,False,False,0,False
+655,410.100,Schulgesetz,3254,True,False,False,1,False
+656,410.140,Verordnung über die Kooperation zwischen der Schule und den Erziehungsberechtigten,445,False,True,False,1,False
+657,410.150,Übergangsverordnung betreffend den Übergang von der bisherigen Schullaufbahn zur neuen harmonisierten Schullaufbahn,389,False,True,False,1,False
+658,410.200,Ordnung für die Festlegung und Veränderung der Anzahl Unterrichtslektionen für die vom Kanton geführten Schulen,230,False,False,False,0,False
+659,410.300,Ordnung über die Überschreitung der gesetzlichen Klassengrössen,71,False,False,False,0,False
+660,410.910,Verordnung über die auswärtigen Schulanlässe der Schulen des Kantons Basel-Stadt,510,False,False,False,0,False
+661,411.100,Verordnung über die Staatliche Schulsynode des Kantons Basel-Stadt,496,False,False,False,0,False
+662,411.150,Verordnung betreffend die Tätigkeit der Schulräte der Volksschulen,470,False,False,False,0,False
+663,411.300,Verordnung über die Volksschulleitung,281,False,False,False,0,False
+664,411.360,Verordnung für die Schulleitungen der weiterführenden Schulen,859,False,False,False,0,False
+665,411.380,Ordnung für die Schulkonferenzen,216,False,False,False,0,False
+666,411.500,Verordnung betreffend die Pflichtlektionenzahl und die Lektionenzuteilung der Lehrpersonen an den vom Kanton geführten Schulen,315,False,False,False,0,False
+667,411.520,Verordnung betreffend den Übertritt von Lehrkräften an die Orientierungsschule und an die Weiterbildungsschule,173,False,False,False,0,False
+668,412.400,Verordnung über die frühe Deutschförderung,429,False,False,False,0,False
+669,413.825,Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt,387,False,False,False,0,False
+670,414.710,Verordnung betreffend die Gebühren der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt,68,False,False,False,0,False
+671,415.700,Verordnung für den Schulpsychologischen Dienst,72,False,False,False,0,False
+672,419.700,Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen,500,False,False,False,0,False
+673,419.720,Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien,204,False,False,False,0,False
+674,419.750,Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung,309,False,False,False,0,False
+675,419.903,Verordnung der SDK über die Anerkennung von ausländischen Ausbildungsabschlüssen,183,False,False,False,0,False
+676,419.905,Reglement der GDK für die interkantonale Prüfung von Osteopathinnen und Osteopathen in der Schweiz,587,False,False,False,0,False
+677,419.910,Verordnung des Bundesrates / Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen,586,False,False,False,0,False
+678,420.200,Kantonales Gesetz über die Berufsbildung,951,False,False,False,0,False
+679,420.210,Verordnung über den Vollzug des Kantonalen Gesetzes über die Berufsbildung,647,False,False,False,0,False
+680,421.110,Schulordnung für die Allgemeine Gewerbeschule Basel,841,False,False,False,0,False
+681,421.500,Grossratsbeschluss betreffend Errichtung einer Berufsmittelschule,34,False,False,False,0,False
+682,423.100,Gesetz betreffend die Berufsfachschule Basel (BFS Basel),361,False,False,False,0,False
+683,424.100,Verordnung über die Berufsmaturität,487,False,False,False,0,False
+684,424.500,Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhabenden eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen,213,False,False,False,0,False
+685,427.120,"Vereinbarung zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals",222,False,False,False,0,False
+686,427.940,Verordnung über den Bildungsgang zur diplomierten Biomedizinischen Analytikerin HF / zum diplomierten Biomedizinischen Analytiker HF,428,False,False,False,0,False
+687,439.140,Verordnung betreffend die Entschädigungen für die Mitwirkung an Aufnahme- und Abschlussprüfungen,55,False,True,False,1,False
+688,440.110,Statut der Universität Basel,1315,False,False,False,0,False
+689,451.100,Gesetz über die Museen des Kantons Basel-Stadt,386,False,False,False,0,False
+690,451.110,Verordnung zum Gesetz über die Museen des Kantons Basel-Stadt,275,False,False,False,0,False
+691,451.500,Verordnung betreffend das Museum Kleines Klingental,174,False,False,False,0,False
+692,453.500,Verordnung über die Erhebung von Gebühren der zentralen Statistikstelle,147,False,False,False,0,False
+693,491.110,Vollziehungsverordnung zum Gesetz betreffend Ausbildungsbeiträge,761,False,False,False,0,False
+694,494.340,Verordnung über die Programm- und Strukturförderung Orchester,246,False,False,False,0,False
+695,494.500,Ordnung für die Verleihung des Wissenschaftspreises der Stadt Basel,85,False,False,False,0,False
+696,494.700,Verordnung über die Verwendung der Jugendkulturpauschale,133,False,False,False,0,False
+697,494.830,Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung,308,False,False,False,0,False
+698,497.100,Gesetz über den Denkmalschutz,669,False,False,False,0,False
+699,497.110,Verordnung betreffend die Denkmalpflege,690,False,False,False,0,False
+700,510.100,Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt,2175,True,False,False,1,False
+701,510.200,Vereinbarung über die grenzüberschreitenden polizeilichen Tätigkeiten in den Kantonen Basel-Landschaft und Basel-Stadt,606,False,False,False,0,False
+702,510.430,Pilotversuchsverordnung über die Qualitätssicherung des kantonalen Bedrohungsmanagements,106,False,False,False,0,False
+703,519.700,Gebührenordnung für den kleinen Grenzverkehr,44,False,False,False,0,False
+704,561.110,Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen,170,False,False,False,0,False
+705,561.111,Gesamtschweizerisches Geldspielkonkordat,1401,True,False,False,1,False
+706,257.135,Verordnung über dauernd bestellte und amtliche Sachverständige im Strafverfahren,60,False,False,False,0,False
+707,257.140,Verordnung über das Informatiksystem der Staatsanwaltschaft,306,False,False,False,0,False
+708,257.810,Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009,479,False,False,False,0,False
+709,258.600,Konvention zwischen dem Kanton Basel-Stadt und der Stiftung Schweizerisches Ausbildungszentrum für das Strafvollzugspersonal betreffend Regelung der Kantonsbeiträge an die Kosten des Schweizerischen Ausbildungszentrums,104,False,False,False,0,False
+710,291.400,Reglement über das Honorar und die Entschädigung der berufsmässigen Vertretung im Gerichtsverfahren,522,False,False,False,0,False
+711,292.100,Notariatsgesetz des Kantons Basel-Stadt,1888,True,False,False,1,False
+712,292.110,Verordnung zum Notariatsgesetz des Kantons Basel-Stadt,746,False,False,False,0,False
+713,321.500,Übereinkunft zwischen der Schweiz und dem Grossherzogtum Baden betreffend die sanitäre Überwachung des von der Schweiz nach Baden gerichteten Reiseverkehrs auf dem Badischen Bahnhof zu Basel bei drohenden oder ausgebrochenen Seuchen,130,False,False,False,0,False
+714,322.100,Gesetz betreffend Massnahmen gegen den Alkohol- und Medikamentenmissbrauch sowie gegen den Drogenkonsum und betreffend Einführung des revidierten Bundesgesetzes über die Betäubungsmittel vom 20. März 1975,162,False,False,False,0,False
+715,328.210,Verordnung betreffend die soziale Zahnpflege,341,False,False,False,0,False
+716,329.200,Grossratsbeschluss betreffend die ärztliche Versorgung der Bevölkerung in den Aussenquartieren der Stadt und in Riehen,35,False,False,False,0,False
+717,329.201,Grossratsbeschluss betreffend Initiativbegehren betreffend Verbesserung der medizinisch-pflegerischen und sozialen Betreuung durch Gesundheitszentren im Quartier,47,False,False,False,0,False
+718,212.100,Kantonale Zivilstandsverordnung,143,False,False,False,0,False
+719,212.191,Verordnung über die elektronische Überwachung zum Schutz gewaltbetroffener Personen,78,False,False,False,0,False
+720,212.250,"Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen",562,False,False,False,0,False
+721,212.260,"Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Familienpflege",557,False,False,False,0,False
+722,212.400,Kindes- und Erwachsenenschutzgesetz,804,True,False,False,1,False
+723,212.600,Verordnung betreffend Einführung des Bundesgesetzes über Voraussetzungen und Verfahren bei Sterilisationen,12,False,False,True,1,False
+724,212.860,Verordnung zum Einführungsgesetz zum Bundesgesetz über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen,197,False,False,False,0,False
+725,214.200,Verordnung über die Behandlung von Fundsachen,252,False,False,False,0,False
+726,214.305,Geoinformationsverordnung,420,False,False,False,0,False
+727,214.610,Gesetz betreffend die Einführung von weiteren Bewilligungsgründen für den Erwerb von Grundstücken durch Personen im Ausland,28,False,False,False,0,False
+728,215.400,Gesetz über die Staatliche Schlichtungsstelle für Mietstreitigkeiten,96,False,False,False,0,False
+729,215.500,Verordnung zum Bundesgesetz über die landwirtschaftliche Pacht,99,False,False,False,0,False
+730,215.999,Information des Justiz- und Sicherheitsdepartements des Kantons Basel-Stadt betreffend Gesamtarbeitsverträge,13,False,False,True,1,False
+731,251.700,Beschluss des Regierungsrates betreffend die Bezeichnung der bei Vernachlässigung von Unterstützungspflichten antragsberechtigten Behörden und Stellen,11,False,False,True,1,False
+732,257.100,Gesetz über die Einführung der Schweizerischen Strafprozessordnung,518,False,False,False,0,False
