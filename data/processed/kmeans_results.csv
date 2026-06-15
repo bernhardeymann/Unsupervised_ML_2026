@@ -1,0 +1,731 @@
+systematic_number,title_de,category_name,hauptgruppe,cluster_tfidf,cluster_w2v,cluster_tfidf_9,cluster_w2v_9
+330.500,Entfernung der Spitalliste aus der Gesetzessammlung,Anderes,3,1,16,1,7
+333.200,"Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung",Interkantonale Vereinbarung,3,1,16,1,7
+339.220,Verordnung über die von der Sanität Basel zu erhebenden Gebühren,Verordnung,3,1,13,1,1
+351.100,Vollziehungsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände,Verordnung,3,1,14,1,1
+361.300,Verordnung über die Bekämpfung von Tierseuchen,Verordnung,3,1,14,1,1
+365.520,"Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau",Interkantonale Vereinbarung,3,1,16,1,7
+369.200,Reglement für den Betrieb einer Tierkörpersammelstelle (TKS),Reglement,3,1,14,1,1
+371.100,Sportgesetz,Gesetz,3,1,16,1,7
+410.130,"Verordnung über den Schulbesuch, die Absenzen, Dispensationen und Disziplinarmassnahmen",Verordnung,4,1,8,7,3
+410.180,Konkordat über die Schulkoordination,Interkantonale Vereinbarung,4,1,16,1,7
+410.500,Ordnung für den Religionsunterricht,Anderes,4,1,8,7,3
+411.200,Verordnung über die Schulkommissionen der weiterführenden Schulen,Verordnung,4,1,8,7,3
+411.450,Ordnung über Auftrag und Arbeitszeit der Lehrpersonen,Anderes,4,1,8,7,3
+413.630,Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt,Verordnung,4,1,6,2,3
+413.820,Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt,Verordnung,4,1,6,2,3
+414.200,Verordnung über die Abgabe von Lehrmitteln und Verbrauchsmaterialien,Verordnung,4,1,8,1,3
+414.300,Ordnung für das Verfahren bei der Beschaffung von Lehrmitteln,Anderes,4,1,8,1,3
+415.100,Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche,Gesetz,4,1,2,1,8
+415.170,Richtlinie betreffend die Tätigkeit und Organisation des Jungen Rates,Anderes,4,1,2,1,8
+415.500,Weisung betreffend die Vergütung für die Leitung von freiwilligen Kursen und ähnlichen Angeboten sowie für Tätigkeiten in Verbindung mit Jugend und Sport,Anderes,4,1,12,1,4
+419.300,"Verordnung über Studien-, Kurs- und Verwaltungsgebühren in der kantonalen Berufsbildung",Verordnung,4,1,6,1,3
+419.810,Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen,Interkantonale Vereinbarung,4,1,16,1,8
+419.900,Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen,Interkantonale Vereinbarung,4,1,16,1,8
+419.902,Reglement des Schweizerischen Roten Kreuzes (SRK) über die Anerkennung kantonaler Ausbildungsabschlüsse,Interkantonale Vereinbarung,4,1,6,1,8
+419.904,Reglement des SRK über die Anerkennung von ausländischen Ausbildungsabschlüssen,Interkantonale Vereinbarung,4,1,6,1,8
+421.770,Verordnung betreffend den Ausbildungsgang Gestalter oder Gestalterin an der Schule für Gestaltung,Verordnung,4,1,6,7,3
+423.200,Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt Deutsch»,Verordnung,4,1,6,2,3
+427.100,Verordnung über das Bildungszentrum Gesundheit Basel-Stadt (BZG),Verordnung,4,1,8,7,3
+427.150,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nicht akademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe,Interkantonale Vereinbarung,4,1,16,1,8
+427.800,Reglement über die Ausbildung und Lehrabschlussprüfung für gelernte Matrosen und Matrosinnen der Binnenschifffahrt,Reglement,4,1,6,1,3
+427.930,Verordnung über den Bildungsgang zur diplomierten Fachfrau für medizinisch technische Radiologie HF / zum diplomierten Fachmann für medizinisch technische Radiologie HF,Verordnung,4,1,6,2,3
+428.710,Studien- und Prüfungsreglement für Schulische Heilpädagogik,Reglement,4,1,6,2,3
+442.410,Vereinbarung über das Immobilienwesen der Universität Basel,Interkantonale Vereinbarung,4,0,7,0,7
+452.300,Verordnung betreffend die Erhebung von Gebühren durch das Staatsarchiv,Verordnung,4,1,9,1,6
+491.100,Gesetz betreffend Ausbildungsbeiträge,Gesetz,4,1,2,1,8
+494.300,Kulturfördergesetz,Gesetz,4,1,16,1,7
+494.350,Verordnung für die Verleihung des Kulturpreises des Kantons Basel-Stadt,Verordnung,4,1,16,1,7
+494.400,Ordnung für den Preis der Universität Basel,Anderes,4,1,7,1,7
+510.150,Kantonale Verordnung über Massnahmen zur Unterstützung der Sicherheit von Minderheiten mit besonderen Schutzbedürfnissen,Anderes,5,1,16,1,7
+510.900,"Verwaltungsvereinbarung zwischen dem Kanton Basel-Stadt, vertreten durch das Sicherheitsdepartement, und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Kantonspolizei Basel-Stadt und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung",Anderes,5,1,3,1,1
+519.400,Verordnung über die Beglaubigungsgebühren sowie die Gebühren auf dem Gebiet der Einwohnerkontrolle und des Ausländerrechts,Verordnung,5,1,13,1,1
+519.800,Verordnung über die Gebühren des Instituts für Rechtsmedizin,Verordnung,5,1,13,1,1
+561.105,Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele,Verordnung,5,1,16,0,7
+772.400,Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität,Anderes,7,0,0,6,5
+772.530,Gebührentarif der IWB Industrielle Werke Basel betreffend Gas,Anderes,7,1,0,1,5
+772.600,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Fernwärme,Anderes,7,0,0,6,5
+772.800,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser,Anderes,7,0,0,6,5
+780.200,Verordnung über die Umweltverträglichkeitsprüfung im Kanton Basel-Stadt,Verordnung,7,1,1,1,0
+780.300,Verordnung über den Mobilitätsfonds,Verordnung,7,1,16,0,7
+781.200,Verordnung über die Lufthygiene,Verordnung,7,1,1,1,0
+783.400,Gesetz über Grundwasserschutzzonen,Gesetz,7,1,1,0,0
+783.410,Verordnung über Grundwasserschutzzonen und Gewässerschutzbereiche,Verordnung,7,0,1,0,0
+784.740,"Vertrag zwischen dem Kanton Basel-Stadt und dem Wieseverband, Sitz in Lörrach, betreffend das Durchleitungsrecht für den Abwasserhauptsammler im Gebiet des Schlipf, auf dem rechten Ufergelände der Wiese im Kanton Basel-Stadt (Gemeinde Riehen) und den Anschluss der Kanalisation des rechtsuferigen Wiesegeländes der Gemeinde Riehen, mit Ausnahme der Zollfreien Strasse Lörrach-Weil, an den Abwasserhauptsammler und Reinigung des Abwassers in der Abwasserreinigungsanlage Bändlegrund des Wieseverbandes",Staatsvertrag,7,1,5,1,2
+785.700,Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässerschutzmassnahmen,Interkantonale Vereinbarung,7,1,5,1,2
+785.740,"Vertrag zwischen 1. Kanton Basel-Stadt vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel 2. Kanton Basel-Landschaft vertreten durch den Regierungsrat 3. Einfacher Gesellschaft, bestehend aus a) BASF Schweiz AG, Basel b) F. Hoffmann-La Roche AG, Basel c) Huntsman Advanced Materials (Switzerland) GmbH, Basel d) Novartis Pharma AG, Basel e) Syngenta Crop Protection AG, Basel betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen",Interkantonale Vereinbarung,7,0,5,0,2
+786.300,Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben,Interkantonale Vereinbarung,7,1,1,1,5
+786.310,Umsetzungsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel (KVA) und von Verbrennungsrückständen aus der KVA auf der Deponie Elbisgraben,Interkantonale Vereinbarung,7,1,1,1,5
+786.360,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, einerseits, und der Stadt Weil am Rhein, vertreten durch den Bürgermeister, anderseits, betreffend die Verwertung und Vernichtung von Abfallstoffen",Staatsvertrag,7,1,5,1,2
+789.710,Baumschutzverordnung,Verordnung,7,1,1,1,0
+812.200,Gesetz über den kantonalen Mindestlohn,Gesetz,8,1,11,1,8
+812.600,Verordnung über die Organisation der Bekämpfung der Schwarzarbeit im Kanton Basel-Stadt,Verordnung,8,1,11,1,1
+813.300,Gesetz betreffend das ständige staatliche Einigungsamt,Gesetz,8,0,4,8,6
+815.150,Verordnung betreffend ergänzende Beiträge für die frühkindliche Förderung in Spielgruppen mit Deutschförderung,Verordnung,8,1,2,1,8
+819.410,Gesetz über die steuerbegünstigten Arbeitsbeschaffungsreserven,Gesetz,8,1,11,1,8
+819.872,Verordnung 2 betreffend Gewährung von kantonalen Start-up-Bürgschaften infolge COVID-19-Pandemie,Verordnung,8,0,11,0,7
+819.878,Dringlicher Grossratsbeschluss über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie,Anderes,8,1,16,1,7
+819.879.001,Verordnung betreffend Unterstützungsprogramm für Gastronomie und Hotellerie im Zusammenhang mit der Covid-19-Pandemie,Verordnung,8,1,11,1,7
+832.200,Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung,Gesetz,8,1,11,1,8
+832.500,Einführungsgesetz zum Bundesgesetz über die Invalidenversicherung für eine IV-Stelle Basel-Stadt,Gesetz,8,1,11,1,8
+832.700,"Gesetz über die Einführung des Bundesgesetzes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen",Gesetz,8,1,2,1,8
+832.710,"Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung",Verordnung,8,1,2,1,8
+833.100,Vertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die BVG- und Stiftungsaufsicht beider Basel,Interkantonale Vereinbarung,8,0,7,5,7
+833.110,Ordnung über die berufliche Vorsorge,Anderes,8,1,7,1,7
+834.800,Verordnung zum Bundesgesetz über die Unfallversicherung (UVG),Verordnung,8,1,11,1,1
+835.510,Verordnung betreffend kantonale Arbeitslosenhilfe,Verordnung,8,1,11,1,8
+861.520,Verordnung über die Wohnraumförderung,Verordnung,8,0,2,0,8
+861.540,Verordnung über den Schutz von Wohnraum,Verordnung,8,0,1,0,0
+861.625,Mietreglement der Stiftung für preisgünstigen Wohnraum Basel-Stadt,Reglement,8,0,1,0,0
+869.100,Interkantonale Vereinbarung für soziale Einrichtungen,Interkantonale Vereinbarung,8,1,16,1,8
+869.204,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten einer Alterssiedlung des Gemeinnützigen Vereins für Alterswohnungen an der Gundeldingerstrasse,Anderes,8,1,10,3,0
+869.210,Grossratsbeschluss betreffend die Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen der Heilsarmee an der Breisacherstrasse 45,Anderes,8,1,10,3,0
+869.301,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten eines Wohn- und Freizeitheimes des Christlichen Vereins junger Frauen Basel am Spalentorweg 10,Anderes,8,1,10,3,0
+685.100,Grossratsbeschluss betreffend Anlage und Betrieb von öffentlichen Materiallagerplätzen auf dem Dreispitz,Anderes,6,1,5,1,2
+685.360,Kanalisationsreglement für die Dreispitzverwaltung Basel,Reglement,6,1,10,1,2
+691.100,Interkantonale Vereinbarung über den Salzverkauf in der Schweiz,Interkantonale Vereinbarung,6,1,7,1,7
+695.110,Verordnung zum Gebäudeversicherungsgesetz,Verordnung,6,0,1,1,0
+717.100,Gesetz über die Ermittlung von Grundstückwerten,Gesetz,7,1,10,1,0
+721.820,Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über den Autobahnzusammenschluss im Raum Basel und Weil am Rhein,Staatsvertrag,7,0,5,0,2
+724.110,Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes,Verordnung,7,0,1,4,0
+724.500,Verordnung über die Strassenprostitution,Verordnung,7,1,13,1,2
+730.110,Bau- und Planungsverordnung,Verordnung,7,0,1,4,0
+730.115,Ausführungsbestimmungen zur Bau- und Planungsverordnung,Anderes,7,0,1,4,0
+735.250,Reglement betreffend Reinigungsintervalle für Feuerungsanlagen,Reglement,7,1,1,1,0
+735.400,Verordnung über die Gebühren der Feuerpolizei,Verordnung,7,1,13,1,1
+771.610,Convention pour le règlement des rapports entre la Suisse et la France au sujet de certaines clauses du régime juridique de la future dérivation de Kembs,Staatsvertrag,7,1,15,1,4
+771.920,Verordnung betreffend die Wässerungsverhältnisse am Riehenteich,Verordnung,7,1,5,1,2
+772.100,Energiegesetz,Gesetz,7,0,1,0,0
+772.110,Verordnung zum Energiegesetz,Verordnung,7,0,1,0,0
+RiE 980.110,Reglement für die Vergabekommission Entwicklungszusammenarbeit,Reglement,S,1,4,1,7
+140.110,Gleichstellungsverordnung,Verordnung,1,1,16,1,7
+190.100,Gesetz betreffend die Staatsoberaufsicht über die öffentlich-rechtlichen Kirchen und die Israelitische Gemeinde sowie über die Verwendung von Staats- und Gemeindemitteln zu Kirchenzwecken,Gesetz,1,1,5,1,2
+230.700,"Uebereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg, betreffend die Konkursverhältnisse und gleiche Behandlung der beyderseitigen Staatsangehörigen in Konkursfällen.",Staatsvertrag,2,1,5,1,2
+230.900,Gesetz betreffend das Gantwesen,Gesetz,2,1,10,1,6
+300.100,Gesundheitsgesetz,Gesetz,3,0,16,0,8
+310.120,Verordnung über die Fachpersonen und Betriebe im Gesundheitswesen,Verordnung,3,0,16,0,8
+310.125,Kantonale Verordnung über die Förderung der Ausbildung im Bereich der Pflege,Verordnung,3,1,16,1,8
+390.100,Bestattungsgesetz,Gesetz,3,0,18,0,2
+390.500,Verordnung über Gebühren im Bestattungswesen,Verordnung,3,1,18,1,2
+390.720,"Vertrag betreffend die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Basel-Landschaft namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechtes gemäss § 1 des Gesetzes über das Begräbniswesen",Interkantonale Vereinbarung,3,1,18,1,2
+590.100,Gesetz betreffend die Feuerwehr des Kantons Basel-Stadt,Gesetz,5,1,3,1,1
+590.110,Verordnung zum Gesetz betreffend die Feuerwehr des Kantons Basel-Stadt,Verordnung,5,1,3,1,1
+610.100,Gesetz über den kantonalen Finanzhaushalt,Gesetz,6,0,7,0,7
+650.100,Gesetz über die Handänderungssteuer,Gesetz,6,0,10,0,2
+650.500,Gesetz über die Besteuerung der Motorfahrzeuge,Gesetz,6,1,13,1,1
+740.110,Verordnung zum Enteignungsgesetz,Verordnung,7,1,10,1,0
+869.710,Verordnung über die Behindertenhilfe,Verordnung,8,0,2,0,8
+910.300,Verordnung betreffend den Vollzug des Bundesgesetzes über die wirtschaftliche Landesversorgung (LVG),Verordnung,9,1,11,1,7
+910.400,Verordnung zum Bundesgesetz über das Messwesen,Verordnung,9,1,11,1,1
+911.400,Verordnung betreffend den kantonalen Pflanzenschutzdienst,Verordnung,9,1,1,1,0
+911.600,Waldgesetz Basel-Stadt,Gesetz,9,0,1,0,0
+912.200,Wildtier- und Jagdgesetz,Gesetz,9,0,14,0,1
+912.210,Wildtier- und Jagdverordnung,Verordnung,9,0,14,0,1
+912.500,Gesetz über die Fischerei im Kanton Basel-Stadt,Gesetz,9,1,14,1,1
+919.200,Grossratsbeschluss betreffend Umwandlung der Genossenschaft Schweizer Mustermesse in Basel in die Schweizer Mustermesse AG,Anderes,9,1,5,1,2
+951.110,Verordnung zum Gesetz über den öffentlichen Verkehr,Verordnung,9,1,5,1,2
+952.260,Reglement über Wunschkontrollschilder,Reglement,9,1,13,1,1
+952.570,Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten,Interkantonale Vereinbarung,9,1,13,1,1
+952.600,"Verordnung über den Betrieb der Parkgaragen Elisabethen, Steinen, City, Storchen und St. Jakob sowie des Parkplatzes St. Jakob",Verordnung,9,1,13,1,2
+952.860,Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel,Interkantonale Vereinbarung,9,1,13,1,1
+953.860,"Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Basellandschaftlichen Ueberlandbahn AG, nachstehend BUeB genannt",Anderes,9,1,5,1,2
+953.940,Ausführungsbestimmungen zur Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen,Anderes,9,1,16,1,8
+954.420,"Vertrag zwischen dem Deutschen Reich (Eisenbahnfiskus), vertreten durch die Reichsbahndirektion in Karlsruhe, einerseits, dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, und den Schweizerischen Bundesbahnen, vertreten durch die Generaldirektion in Bern, anderseits, betreffend a) den Anschluss der Hafenbahn an den Basel Badischen Verschubbahnhof, b) den Betrieb der Hafenbahn durch die Schweizerischen Bundesbahnen zwischen dem baselstädtischen Rheinhafen Kleinhüningen und dem Basel Badischen Verschubbahnhof",Staatsvertrag,9,1,5,1,2
+954.520,Übereinkunft betreffend die Weiterführung der Grossherzoglichen Badischen Rheinthal-Eisenbahn durch das Gebiet des Kantons Basel-Stadt,Staatsvertrag,9,1,5,1,2
+954.540,Übereinkunft betreffend die Erweiterung des Badischen Hauptbahnhofs und die Erstellung eines Rangier- und Werkstättenbahnhofs auf dem Gebiete des Kantons Basel-Stadt,Staatsvertrag,9,1,5,1,2
+955.100,Vollziehungsverordnung zum Bundesgesetz über die Binnenschifffahrt,Verordnung,9,1,13,1,1
+955.200,Gesetz über die Rheinschiffahrtsgerichte,Gesetz,9,1,3,1,6
+955.400,"Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizer Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports»)",Interkantonale Vereinbarung,9,0,7,5,7
+955.480,Abgabetarif der Schweizerischen Rheinhäfen,Anderes,9,1,13,1,1
+955.700,"Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten",Interkantonale Vereinbarung,9,1,5,1,7
+955.900,Beschluss des Regierungsrates betreffend Zuständigkeit zur Verzeigung von an Bord schweizerischer Seeschiffe begangenen Übertretungen,Anderes,9,1,3,1,1
+956.200,Französisch-schweizerischer Staatsvertrag über den Bau und Betrieb des Flughafens Basel-Mülhausen in Blotzheim,Staatsvertrag,9,0,5,0,2
+956.520,Grossratsbeschluss betreffend Verlängerung der Hauptpiste des Flughafens Basel-Mülhausen sowie Richtlinien über Massnahmen betreffend den Fluglärm aus dem Betrieb des Flughafens Basel-Mülhausen,Anderes,9,1,5,1,7
+562.360,Reglement über die Stammbeschickung an der Basler Herbstmesse und am Weihnachtsmarkt,Reglement,5,1,1,1,1
+562.530,Verordnung zum Trödel- und Pfandleihgewerbe,Verordnung,5,0,13,0,1
+563.100,Gesetz über das Gastgewerbe,Gesetz,5,0,1,0,1
+563.210,Verordnung zum Taxigesetz,Verordnung,5,1,13,0,1
+568.200,Verordnung über den Vollzug der eidgenössischen Waffengesetzgebung,Verordnung,5,1,14,1,1
+569.500,Plakatverordnung,Verordnung,5,0,1,0,1
+575.100,Verordnung über die Wehrpflichtersatzabgabe,Verordnung,5,1,11,1,6
+576.180,Verordnung über den Kulturgüterschutz,Verordnung,5,1,3,1,0
+790.100,Gesetz betreffend die Baurekurskommission,Gesetz,7,1,17,8,6
+890.100,Sozialhilfegesetz,Gesetz,8,0,2,0,8
+890.700,Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen,Gesetz,8,1,2,1,8
+111.100,Verfassung des Kantons Basel-Stadt,Verfassung,1,0,4,8,7
+118.430,Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz,Interkantonale Vereinbarung,1,1,4,1,7
+118.600,Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel,Interkantonale Vereinbarung,1,1,16,1,7
+118.700,Vereinbarung über die Organisation der Geschäftsstelle der Trägerschaft für das Agglomerationsprogramm der Agglomeration Basel,Interkantonale Vereinbarung,1,1,16,1,7
+211.110,Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch,Verordnung,2,1,10,1,0
+212.200,Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen,Verordnung,2,1,2,1,8
+212.500,Verordnung über die Ausbildung der mit Kindesanhörungen und Kindesvertretung beauftragten Personen,Verordnung,2,1,2,1,8
+212.800,Verordnung zur Einführung des Bundesgesetzes zum Haager Adoptionsübereinkommen,Verordnung,2,1,2,1,8
+212.850,Einführungsgesetz zum Bundesgesetz über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen,Gesetz,2,1,2,1,8
+212.910,Ordnung über die Stiftungsaufsicht,Anderes,2,1,7,1,7
+214.320,Verordnung über die amtliche Vermessung,Verordnung,2,0,10,4,0
+214.600,Kantonale Verordnung betreffend die Bewilligungspflicht für den Erwerb von Grundstücken durch Personen im Ausland,Verordnung,2,1,10,1,0
+215.210,Verordnung zum Bundesgesetz über den Konsumkredit und zur Bundesverordnung zum Konsumkreditgesetz,Verordnung,2,1,11,1,1
+257.113,Verordnung über die Zuständigkeiten zur Erhebung von bundesrechtlichen Ordnungsbussen,Verordnung,2,1,3,1,1
+257.115,Verordnung über das kantonale Ordnungsbussenverfahren,Verordnung,2,1,3,1,1
+257.500,Gesetz über die Einführung der Schweizerischen Jugendstrafprozessordnung,Gesetz,2,1,3,8,6
+257.820,Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität,Interkantonale Vereinbarung,2,1,9,1,6
+257.900,Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten,Gesetz,2,1,3,1,6
+257.920,Vertrag über die Opferberatungsstellen beider Basel,Interkantonale Vereinbarung,2,1,3,1,6
+258.210,Verordnung über den Justizvollzug,Verordnung,2,0,3,8,1
+258.300,Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen,Interkantonale Vereinbarung,2,1,16,8,7
+258.450,Verordnung über die finanzielle Beteiligung von verurteilten Personen und Eltern an jugendstrafrechtlichen Sanktionen,Verordnung,2,1,2,1,8
+122.200,Gesetz über Niederlassung und Aufenthalt,Gesetz,1,1,9,1,1
+122.210,Verordnung über Niederlassung und Aufenthalt,Verordnung,1,1,9,1,8
+122.300,Gesetz über den Vollzug der Zwangsmassnahmen im Ausländerrecht,Gesetz,1,1,3,8,6
+123.200,Verordnung über den Vollzug des Bundesgesetzes zur Wahrung der inneren Sicherheit,Verordnung,1,1,3,8,6
+132.100,Gesetz über Wahlen und Abstimmungen,Gesetz,1,0,4,8,6
+132.150,Verordnung über den Testbetrieb für die elektronische Stimmabgabe,Verordnung,1,1,9,1,6
+132.200,Grossratsbeschluss betreffend Zahl der den Wahlkreisen der Stadt und den Gemeinden Bettingen und Riehen im Grossen Rat zustehende Sitze,Anderes,1,1,10,1,2
+152.250,Reglement über die Teilnahme an Abstimmungen in Abwesenheit,Anderes,1,1,4,1,6
+152.400,Reglement über Organisation und Aufgaben des Parlamentsdienstes,Reglement,1,1,17,1,6
+152.500,Reglement betreffend Akkreditierung der Medienschaffenden und Zutritt zum Grossen Rat,Reglement,1,1,9,1,1
+152.900,Gesetz betreffend die Beauftragte/den Beauftragten für das Beschwerdewesen (Ombudsfrau / Ombudsmann) des Kantons Basel-Stadt,Gesetz,1,0,17,8,6
+153.100,Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt,Gesetz,1,0,4,8,6
+153.110,Verordnung betreffend die Zuständigkeiten,Verordnung,1,1,11,1,1
+153.310,Verordnung über den Datenmarkt,Verordnung,1,1,9,1,7
+153.600,Gesetz über das Archivwesen,Gesetz,1,0,9,0,1
+153.610,Verordnung über die Registraturen und das Archivieren,Verordnung,1,0,9,0,1
+153.800,Gesetz über die Verwaltungsgebühren,Gesetz,1,1,13,1,1
+153.900,Vereinbarung über die Konferenz der Kantonsregierungen,Interkantonale Vereinbarung,1,1,4,1,7
+154.112,Personalreglement der Gerichte,Reglement,1,1,17,8,4
+154.115,Medien- und Informationsreglement der Gerichte,Reglement,1,1,17,8,6
+154.200,Gesetz über das Sozialversicherungsgericht des Kantons Basel-Stadt und über das Schiedsgericht in Sozialversicherungssachen,Gesetz,1,1,17,8,6
+154.800,Gesetz über die Gerichtsgebühren,Gesetz,1,1,17,8,6
+160.100,Verordnung über die Personaldienste des Kantons Basel-Stadt,Verordnung,1,1,7,1,7
+161.100,Gesetz über die Haftung des Staates und seines Personals,Gesetz,1,1,3,8,6
+162.100,Personalgesetz,Gesetz,1,0,12,8,4
+162.130,Verordnung betreffend den Wohnsitz von Beamten und Angestellten,Verordnung,1,1,13,1,1
+162.320,Verordnung betreffend vorzeitige Pensionierung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+162.420,Verordnung über den Schwangerschafts- und Mutterschaftsurlaub,Verordnung,1,1,12,1,4
+162.500,Verordnung über den Schutz vor sexueller Belästigung am Arbeitsplatz,Verordnung,1,1,3,8,6
+163.900,Reglement betreffend Parkieren von Motorfahrzeugen der Mitarbeiterinnen und Mitarbeiter auf Staatsarealen,Reglement,1,1,13,1,1
+164.170,Verordnung betreffend ad personam-Einreihung und ad personam-Einstufung,Verordnung,1,1,12,1,4
+164.250,Verordnung über das Dienstaltersgeschenk gemäss § 23 Lohngesetz,Verordnung,1,1,12,1,4
+164.340,Verordnung über die Ausrichtung von Unterhaltszulagen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,Verordnung,1,1,2,1,4
+164.360,Verordnung betreffend Anwendbarkeit des Lohngesetzes auf nicht definitiv Beschäftigte oder nur nebenamtlich im Staatsdienst tätige Mitarbeiterinnen und Mitarbeiter,Gesetz,1,1,12,1,4
+164.420,Verordnung über die Ausrichtung von Spesen und Entschädigungen an die Mitarbeitenden des Kantons Basel-Stadt,Verordnung,1,1,13,1,4
+164.440,Verordnung betreffend Entschädigung der Stellvertretung bei Abwesenheit von Mitarbeitern und Mitarbeiterinnen des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+164.560,Verordnung betreffend die Entschädigung für Lehraufträge am Kantonalen Lehrerseminar,Verordnung,1,1,12,1,4
+164.720,Verordnung betreffend die Entschädigung für die Trainingsleiter am Hochschulsport der Universität Basel,Verordnung,1,1,12,1,4
+166.500,Verordnung über die Zusammensetzung und die Wahl der Mitglieder der Vorsorgekommission des Kantons (Bereich Staat),Verordnung,1,1,4,8,6
+169.300,Verordnung betreffend Personalausschüsse in den Departementen und Betrieben des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+170.100,Gemeindegesetz,Gesetz,1,1,4,8,6
+170.110,Verordnung über die Gemeindeaufsicht,Verordnung,1,1,4,1,6
+171.700,Gesetz betreffend die Ausscheidung der Aktiven der Einwohnergemeinde der Stadt Basel,Gesetz,1,1,10,1,2
+172.200,Ausscheidungsvertrag,Anderes,1,1,10,1,2
+172.400,Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung,Anderes,1,1,10,1,2
+140.510,Verordnung zum Gesetz über die Rechte von Menschen mit Behinderungen,Verordnung,1,1,16,1,7
+190.510,"Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel",Interkantonale Vereinbarung,1,1,5,1,2
+300.315,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel,Interkantonale Vereinbarung,3,1,16,1,7
+310.170,Verordnung über die Gebühren im Gesundheitswesen,Verordnung,3,1,16,1,8
+310.420,Verordnung über die Zulassung und Höchstzahlen von ambulanten Leistungserbringern,Verordnung,3,1,16,1,8
+310.800,Verordnung betreffend Ausrichtung von Inkonvenienzentschädigungen für Geburtshilfe und Wochenbettbetreuung,Verordnung,3,1,16,1,8
+390.170,Grabmalverordnung,Verordnung,3,0,18,0,0
+390.760,"Vertrag betreffend die Kremation von Leichen aus dem Kanton Aargau im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Aargau namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechts gemäss § 1 der Vollziehungsverordnung vom 26. Februar 1946 zum Gesetz über das öffentliche Gesundheitswesen des Kantons Aargau vom 28. November 1919",Interkantonale Vereinbarung,3,1,18,1,2
+390.860,Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Bettingen anderseits betreffend den Gottesacker Bettingen (nachfolgend Friedhof),Anderes,3,1,18,1,2
+390.880,Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Riehen anderseits betreffend den Gottesacker Riehen,Anderes,3,1,18,1,2
+390.900,Beschluss des Regierungsrates betreffend Bewilligung eines besonderen israelitischen Friedhofs,Anderes,3,1,18,1,2
+460.210,Verordnung über die Gebühren im Bereich der Maturitätskurse für Berufstätige,Verordnung,4,1,6,1,3
+460.220,Verordnung über die Abschlussprüfungen der Maturitätskurse für Berufstätige,Verordnung,4,1,6,2,3
+590.200,Verordnung über die von der Feuerwehr zu erhebenden Gebühren,Verordnung,5,1,13,1,1
+790.150,Verordnung betreffend die Sachverständigen der Baurekurskommission,Verordnung,7,1,1,1,0
+820.100,Einführungsgesetz zum Bundesgesetz über die Familienzulagen,Gesetz,8,1,11,1,8
+117.480,Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze beim Margarethenstich,Interkantonale Vereinbarung,1,1,10,1,2
+118.750,Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob,Interkantonale Vereinbarung,1,1,16,1,7
+212.410,Verordnung zum kantonalen Kindes- und Erwachsenenschutzgesetz,Verordnung,2,0,2,8,6
+212.470,"Verordnung über die Beiträge der Kinder, Jugendlichen und Eltern an die Kosten der Unterbringung von Kindern und Jugendlichen in Heimen und in Pflegefamilien",Verordnung,2,1,2,1,8
+214.300,Geoinformationsgesetz,Gesetz,2,1,9,1,0
+214.307,Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen,Verordnung,2,1,9,1,0
+214.310,Verordnung über das Grundbuch,Verordnung,2,0,10,0,0
+214.710,Verordnung betreffend Einführung des Bundesgesetzes über das bäuerliche Bodenrecht,Verordnung,2,1,10,1,0
+215.450,Verordnung über die Räumung von Wohnräumen im Rahmen des Exmissionsverfahrens,Verordnung,2,1,13,1,1
+215.600,Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Stadt,Anderes,2,1,12,1,4
+215.700,Normalarbeitsvertrag für Arbeitnehmende im Haushalt einschliesslich der 24-Stunden-Betreuung im Kanton Basel-Stadt,Anderes,2,1,12,0,4
+253.100,Übertretungsstrafgesetz,Gesetz,2,0,14,0,1
+257.110,Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen,Verordnung,2,1,3,1,6
+257.118,Verordnung betreffend Betteln an neuralgischen und besonders sensiblen Örtlichkeiten,Verordnung,2,1,3,1,1
+257.120,"Verordnung über die Zusammensetzung, Organisation und Befugnisse der Staatsanwaltschaft",Verordnung,2,1,3,8,6
+257.815,Verordnung betreffend die Einführung der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten,Verordnung,2,1,3,1,6
+258.100,Gesetz über die Begnadigung,Gesetz,2,1,4,8,6
+258.200,Gesetz über den Justizvollzug,Gesetz,2,0,3,8,1
+258.400,Gesetz über den Vollzug von jugendstrafrechtlichen Sanktionen,Gesetz,2,0,3,8,6
+258.500,Vertrag zwischen den Kantonen Basel-Stadt und Zug zur Errichtung und zum Betrieb einer gemeinsamen Strafanstalt im Bostadel (Kanton Zug),Interkantonale Vereinbarung,2,1,7,1,7
+291.100,Advokaturgesetz,Gesetz,2,0,17,8,6
+291.900,Reglement über das Anwaltsexamen,Reglement,2,1,6,2,3
+292.400,Verordnung über den Notariatstarif,Verordnung,2,1,10,1,2
+321.200,Vollziehungsverordnung zur eidgenössischen Epidemiengesetzgebung,Verordnung,3,1,14,1,1
+323.100,Gesetz über Behandlung und Einweisung psychisch kranker Personen,Gesetz,3,0,3,8,8
+329.110,Verordnung betreffend Beiträge an die unentgeltliche Pflege und Betreuung von dauernd pflegebedürftigen Personen zu Hause,Verordnung,3,1,2,1,8
+610.150,Verordnung über das zentrale Forderungsinkasso,Verordnung,6,1,9,1,6
+610.500,Staatsbeitragsgesetz,Gesetz,6,0,11,0,7
+650.510,Verordnung zum Gesetz über die Besteuerung der Motorfahrzeuge,Verordnung,6,1,13,1,1
+660.200,Verordnung über den Vollzug der Eidgenössischen Verrechnungssteuer im Kanton Basel-Stadt,Verordnung,6,1,11,1,8
+RiE 730.350,Reglement über die Organisation der Ortsbildkommission,Reglement,S,1,4,1,0
+740.100,Gesetz über Enteignung und Impropriation,Gesetz,7,0,10,0,0
+569.100,Gesetz betreffend öffentliche Filmvorführungen und Abgabe von elektronischen Trägermedien,Gesetz,5,1,9,0,1
+576.800,Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen,Interkantonale Vereinbarung,5,1,3,1,1
+576.900,"Vereinbarung zwischen dem Regierungspräsidium Freiburg und dem Kanton Basel-Stadt über die gegenseitige Information bei Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können",Staatsvertrag,5,1,5,1,2
+576.950,"Vereinbarung zwischen dem Präfekten des Departements Haut-Rhin und dem Kanton Basel-Stadt über die gegenseitige Information über Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können",Staatsvertrag,5,1,5,1,1
+640.100,Gesetz über die direkten Steuern,Gesetz,6,0,11,0,8
+562.320,Verordnung betreffend Messen und Märkte in der Stadt Basel,Verordnung,5,0,1,0,1
+563.150,Reglement über den Fähigkeitsausweis und über die Durchführung der Wirtefachprüfung (Prüfungsreglement),Reglement,5,1,6,1,3
+563.200,Gesetz betreffend das Erbringen von Taxidienstleistungen,Gesetz,5,0,13,0,1
+563.250,Prüfungsreglement zum Taxigesetz,Reglement,5,1,6,2,3
+640.110,Verordnung zum Gesetz über die direkten Steuern,Verordnung,6,0,11,0,8
+331.100,Gesetz über die öffentlichen Spitäler des Kantons Basel-Stadt,Gesetz,3,0,7,5,7
+331.300,Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel,Interkantonale Vereinbarung,3,0,7,5,7
+332.640,"Grossratsbeschluss betreffend 1. Gewährung eines Staatsbeitrages an die Um- und Neubauten der ersten Bauetappe des Claraspitals, 2. Übernahme einer Bürgschaft für die von der St. Claraspital AG zu beschaffende I. Hypothek, 3. Projektierungskredit für die zweite Bauetappe des Claraspitals",Anderes,3,1,16,1,7
+361.200,Verordnung betreffend die Gebühren und Vergütungen des Kantonalen Veterinäramtes,Verordnung,3,1,14,1,1
+361.400,Sömmerungsvorschriften des Kantons Basel-Stadt,Anderes,3,1,14,0,1
+365.100,Gesetz betreffend das Halten von Hunden,Gesetz,3,0,14,0,1
+365.500,Verordnung über den Tierschutz,Verordnung,3,1,14,1,1
+369.400,Beschluss des Regierungsrates betreffend die Gebühren für die Benützung der Tierkörpersammelstelle (TKS) des Veterinäramtes des Kantons Basel-Stadt,Anderes,3,1,14,1,1
+410.120,Verordnung über die Rechte und Pflichten der Schülerinnen und Schüler,Verordnung,4,1,8,7,3
+410.600,Verordnung betreffend Verwaltung und Verwendung des Schulfonds der Primarschule Kleinbasel,Verordnung,4,1,8,1,3
+410.700,Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen,Verordnung,4,1,8,7,3
+411.350,Verordnung für die Schulleitungen der Volksschulen,Verordnung,4,1,8,7,3
+411.400,Ordnung für die Lehrpersonen,Anderes,4,1,8,7,3
+411.600,"Verordnung betreffend Ferien und Urlaub, die ausserordentliche Entlastung und die Stellvertretung von Lehrpersonen an den vom Kanton geführten Schulen",Verordnung,4,1,12,7,4
+412.100,Vereinbarung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die kommunale Primarstufe,Anderes,4,1,16,1,7
+412.600,Verordnung über die Tagesstrukturen und die Ferienangebote,Verordnung,4,1,8,7,8
+412.750,Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf sowie die Spitalschulung,Verordnung,4,1,8,7,3
+414.700,Ordnung betreffend die Benutzung der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt,Anderes,4,1,9,1,1
+414.800,Ordnung für die Schulbibliotheken,Anderes,4,1,8,7,3
+415.150,Verordnung über die Aufgaben und die Zusammensetzung der Kinder- und Jugendkommission,Verordnung,4,1,2,1,8
+419.100,Schulgeldverordnung,Verordnung,4,1,8,1,3
+419.500,Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen,Interkantonale Vereinbarung,4,1,16,1,8
+419.630,Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik,Interkantonale Vereinbarung,4,1,16,1,8
+419.901,Verordnung der SDK über die Anerkennung kantonaler Ausbildungsabschlüsse im Gesundheitswesen in der Schweiz,Interkantonale Vereinbarung,4,1,6,1,8
+421.100,Gesetz betreffend die Allgemeine Gewerbeschule Basel (AGS Basel) und die Schule für Gestaltung Basel (SfG Basel),Gesetz,4,1,8,7,3
+421.760,Verordnung für den Lehrgang «Link zum Beruf» an der Allgemeinen Gewerbeschule Basel,Verordnung,4,1,6,2,3
+424.510,Kursgeldverordnung für den Passerellen-Lehrgang,Verordnung,4,1,6,1,3
+427.920,Verordnung über den Bildungsgang Pflege HF am Bildungszentrum Gesundheit Basel-Stadt,Verordnung,4,1,6,2,3
+427.950,Verordnung über den Bildungsgang Kindererziehung HF zur diplomierten Kindererzieherin HF / zum diplomierten Kindererzieher HF,Verordnung,4,1,6,2,3
+428.100,"Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW)",Interkantonale Vereinbarung,4,0,7,5,7
+440.400,Gesetz über das Universitätsgut,Gesetz,4,1,7,1,7
+440.450,Verordnung betreffend die Unveräusserlichkeit des Universitätsgutes,Verordnung,4,1,7,1,7
+442.300,Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen,Interkantonale Vereinbarung,4,1,16,1,8
+442.400,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel,Interkantonale Vereinbarung,4,0,7,5,7
+442.700,Interkantonale Vereinbarung über den schweizerischen Hochschulbereich,Interkantonale Vereinbarung,4,1,16,1,7
+446.420,Vereinbarung zwischen den Kantonen Basel-Stadt und Aargau über die Zusammenarbeit zwischen der Medizinischen Fakultät der Universität Basel und den an der Ausbildung von Medizinstudenten beteiligten Spitälern im Kanton Aargau,Interkantonale Vereinbarung,4,1,16,1,7
+447.650,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts,Interkantonale Vereinbarung,4,0,7,5,7
+451.800,Eintritts- und Verwaltungs-Ordnung des Anatomischen Museums Basel,Anderes,4,1,7,1,7
+453.200,Gesetz über die öffentliche Statistik,Gesetz,4,1,9,1,7
+491.400,Verordnung für die Verwaltung und Verwendung des Stipendienfonds der Basler Schulen,Verordnung,4,1,16,1,8
+491.800,Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern,Reglement,4,1,16,1,8
+494.100,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen,Interkantonale Vereinbarung,4,1,16,1,7
+494.330,Verordnung zur Förderung der Kulturvermittlung im Kanton Basel-Stadt,Verordnung,4,1,16,1,7
+494.800,Verordnung über die Verwendung des Kunstkredits,Verordnung,4,1,16,1,7
+497.120,Archäologieverordnung,Verordnung,4,0,1,0,0
+497.150,Richtlinien der Kommission für Denkmalsubventionen,Anderes,4,0,1,0,0
+497.800,Vertrag über die Römerstadt Augusta Raurica,Interkantonale Vereinbarung,4,1,1,1,7
+510.110,Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt,Verordnung,5,0,3,0,1
+510.170,Verordnung betreffend die Kommission für Gewaltschutz,Verordnung,5,1,3,1,7
+510.300,Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz,Interkantonale Vereinbarung,5,1,3,1,1
+510.500,Übereinkunft betreffend die Polizeitransporte,Interkantonale Vereinbarung,5,1,13,1,1
+510.700,Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch,Interkantonale Vereinbarung,5,0,7,8,7
+561.100,Einführungsgesetz zum Bundesgesetz über Geldspiele,Gesetz,5,1,14,0,1
+561.120,Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds,Verordnung,5,1,16,1,7
+561.121,Verordnung über die Swisslos-Sportfonds-Kommission und die Verwendung der Mittel aus dem Swisslos-Sportfonds,Verordnung,5,1,16,1,7
+649.200,Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen,Interkantonale Vereinbarung,6,1,5,1,2
+649.500,"Grossratsbeschluss betreffend Steuerbefreiung der EUROFIMA, Europäische Gesellschaft für die Finanzierung von Eisenbahnmaterial, im Kanton Basel-Stadt",Anderes,6,1,5,1,7
+649.810,Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern,Staatsvertrag,6,1,5,1,2
+685.320,Verordnung über Bauten auf dem Dreispitz-Areal,Verordnung,6,0,1,0,0
+685.340,Betriebsreglement für die öffentlichen Materiallagerplätze Basel-Dreispitz (Dreispitz-Verwaltung),Reglement,6,0,5,0,2
+695.100,Gebäudeversicherungsgesetz,Gesetz,6,0,1,0,0
+695.300,Schatzungs- und Abgrenzungsbestimmungen zum Gebäudeversicherungsgesetz,Anderes,6,1,1,1,0
+695.500,Beitragsreglement der Gebäudeversicherung,Reglement,6,1,1,1,0
+721.700,Verordnung betreffend den Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960,Verordnung,7,0,1,0,0
+721.840,Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Strasse zwischen Lörrach und Weil am Rhein auf schweizerischem Gebiet,Staatsvertrag,7,0,5,0,2
+724.115,Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes,Anderes,7,0,1,4,0
+727.500,Gesetz über Strassenreinigungsbeiträge,Gesetz,7,1,10,1,0
+727.510,Verordnung zum Gesetz über Strassenreinigungsbeiträge,Verordnung,7,1,10,1,0
+730.100,Bau- und Planungsgesetz,Gesetz,7,0,1,4,0
+730.120,Verordnung über die Gebühren der Baubewilligungsbehörden,Verordnung,7,1,1,1,0
+730.310,Verordnung über die Erstellung von Parkplätzen für Personenwagen,Verordnung,7,1,1,0,0
+730.320,Verordnung über die Erstellung von Abstellplätzen für Velos und Mofas,Verordnung,7,1,1,1,0
+735.200,Verordnung über den Brandschutz,Verordnung,7,0,1,0,0
+771.300,Gesetz betreffend Einführung des Bundesgesetzes über Nutzbarmachung der Wasserkräfte,Gesetz,7,1,5,1,2
+771.500,Gesetz über die Nutzung von öffentlichem Fluss- und Grundwasser,Gesetz,7,1,1,1,0
+771.600,Concession de la Confédération Suisse pour l’extension du remous du Rhin sur territoire suisse jusqu’à l’embouchure de la Birse en vue de la construction et de l’exploitation d’ouvrages sur le Rhin près de Kembs destinés à la production de force hydraulique et à la navigation,Anderes,7,1,15,1,4
+771.940,Grossratsbeschluss betreffend die Durchführung der Verlegung der Kleinbasler Teiche,Anderes,7,1,5,1,2
+772.300,Gesetz über die Industriellen Werke Basel,Gesetz,7,0,0,5,5
+772.310,Verordnung betreffend Organisation der Energie- und Trinkwasserversorgung,Verordnung,7,1,0,1,5
+772.350,Verordnung betreffend die von den IWB Industrielle Werke Basel zu entrichtende Konzessionsgebühr,Verordnung,7,1,0,1,5
+772.430,Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie,Anderes,7,1,0,1,5
+772.500,Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas,Anderes,7,0,0,6,5
+772.630,Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme,Anderes,7,1,0,1,5
+780.750,Verordnung über die Gebühren des Amtes für Umwelt und Energie,Verordnung,7,1,13,1,1
+781.500,Verordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen infolge austauscharmer Wetterlagen,Verordnung,7,1,1,1,0
+782.420,Verordnung betreffend Strassenmusik und Strassenkunst,Verordnung,7,1,13,1,1
+784.300,Verordnung über die Gebühren der Abteilung Stadtentwässerung im Tiefbauamt,Verordnung,7,1,13,1,1
+784.710,Vertrag zwischen Basel-Stadt und Lörrach über die Ableitung des Schmutzwassers der Kanalisation von Lörrach in den Rhein,Staatsvertrag,7,1,5,1,2
+784.720,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Gemeinde Inzlingen, Landkreis Lörrach, vertreten durch den Bürgermeister (nachfolgend «Gemeinde» genannt), betreffend den Anschluss des Kanalisationsnetzes der Gemeinde Inzlingen an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel",Staatsvertrag,7,1,5,1,2
+784.730,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Stadt Weil am Rhein, vertreten durch den Oberbürgermeister (nachfolgend «Stadt» genannt), betreffend den Anschluss der Kanalisation der «Siedlung 14 Linden» an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel",Staatsvertrag,7,1,5,1,2
+785.150,Richtlinien für die Verwirklichung des Konzeptes über die Abwasserreinigung,Anderes,7,1,1,1,0
+786.100,Abfallverordnung,Verordnung,7,1,1,1,0
+786.170,Gebührentarif der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA),Anderes,7,1,0,1,5
+786.370,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch das Baudepartement, und dem Landkreis Lörrach, vertreten durch den Landrat, betreffend die Verbrennung von Siedlungsabfällen in der Kehrichtverbrennunganlage (KVA) Basel",Staatsvertrag,7,1,5,1,2
+786.400,"Vertrag zwischen Ciba-Geigy AG, Basel, und Kanton Basel-Stadt, vertreten durch den Regierungsrat, Kanton Basel-Landschaft, vertreten durch den Regierungsrat, betreffend Sonderabfallverbrennung",Interkantonale Vereinbarung,7,1,1,1,0
+789.100,Gesetz über den Natur- und Landschaftsschutz,Gesetz,7,0,1,0,0
+789.110,Verordnung über den Natur- und Landschaftsschutz,Verordnung,7,0,1,0,0
+789.700,Baumschutzgesetz,Gesetz,7,0,1,0,0
+810.140,Verordnung über die vom Amt für Wirtschaft und Arbeit zu erhebenden Gebühren,Verordnung,8,1,13,1,1
+812.810,Verordnung zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten,Gesetz,8,1,11,1,1
+819.179,Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie im Jahr 2022,Verordnung,8,1,11,1,7
+819.600,Verordnung über die Meldepflicht der Arbeitgeber bei bevorstehenden Entlassungen,Verordnung,8,1,11,1,8
+819.850,Reglement betreffend Gewährung von Bürgschaften,Reglement,8,1,11,1,7
+819.879,Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie,Verordnung,8,1,11,1,7
+831.300,Verordnung über die Erhebung von Sondergebühren durch die Kantonale Ausgleichskasse/AHV,Verordnung,8,1,11,1,8
+832.750,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Riehen,Anderes,8,1,2,1,8
+834.420,Entfernung der Pflegeheimliste aus der Gesetzessammlung,Anderes,8,1,16,1,8
+835.200,Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit,Gesetz,8,1,11,1,7
+835.600,Beschluss des Regierungsrates betreffend Arbeitslosenfonds in Auflösung,Anderes,8,1,11,1,7
+861.250,Verordnung betreffend den Wohnflächenanteil,Verordnung,8,1,1,1,0
+869.209,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen des Vereins für Kranken- und Hauspflege St. Matthäus am Bläsiring 98,Anderes,8,1,10,3,0
+869.501,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Genossenschaft für die Sozialwerke der Heilsarmee für den Umbau des Männerheimes «Hospiz Rheinblick» am Oberen Rheinweg 75 in Basel,Anderes,8,1,10,3,0
+869.750,Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten,Interkantonale Vereinbarung,8,1,2,1,8
+910.200,Standortförderungsgesetz,Gesetz,9,0,11,0,7
+910.210,Verordnung zum Standortförderungsgesetz,Verordnung,9,0,11,0,7
+910.230,Verordnung zum Stadtbelebungsfonds,Verordnung,9,1,16,1,7
+910.500,Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse,Interkantonale Vereinbarung,9,1,16,1,7
+911.900,Gesetz über Freizeitgärten,Gesetz,9,1,1,0,0
+914.200,Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen,Gesetz,9,1,16,1,7
+914.210,Einführungsverordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen,Verordnung,9,1,16,0,7
+914.600,Interkantonale Vereinbarung über das öffentliche Beschaffungswesen,Interkantonale Vereinbarung,9,0,16,0,7
+951.100,Gesetz über den öffentlichen Verkehr,Gesetz,9,0,16,0,7
+952.601,"Vorschriften über die Benutzung der Parkhäuser City, Elisabethen, Steinen und Storchen sowie St. Jakob mit Aussenparkfläche",Anderes,9,1,13,1,1
+952.610,Tarifordnung betreffend die Parkhäuser Basel-Stadt,Anderes,9,1,13,1,1
+952.700,Gesetz gegen den Bau von öffentlichen Autoparkgaragen in der Innerstadt,Gesetz,9,1,10,1,0
+953.800,Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG,Interkantonale Vereinbarung,9,1,5,1,2
+953.820,"Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Trambahngesellschaft Basel-Aesch AG, nachstehend TBA genannt",Anderes,9,1,5,1,2
+954.400,Bundesbeschluss betreffend Konzession einer normalspurigen Güterbahn vom Rheinhafen Kleinhüningen zum Badischen Verschubbahnhof in Basel,Anderes,9,1,5,1,2
+954.510,"Vertrag zwischen der schweizerischen Eidgenossenschaft und dem Grossherzogtum Baden, betreffend die Weiterführung der badischen Eisenbahnen über schweizerisches Gebiet",Staatsvertrag,9,1,5,0,2
+954.550,"Vertrag über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglich Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen",Staatsvertrag,9,1,5,1,2
+954.551,"Nachtrags-Vertrag zum Vertrag vom 24./31. März 1900 über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglichen Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen",Staatsvertrag,9,1,5,1,2
+954.560,Vereinbarung über die deutschen Eisenbahnstrecken auf Schweizer Gebiet,Staatsvertrag,9,1,5,1,2
+955.460,Hafenordnung für die Rheinhäfen beider Basel,Interkantonale Vereinbarung,9,0,13,0,1
+955.470,Gebührentarif der Schweizerischen Rheinhäfen,Anderes,9,1,13,1,1
+956.300,Notenwechsel vom 15. Mai 1965 betreffend Erhebung der Umsatzsteuer auf den Bau- und Einrichtungsarbeiten des Flughafens Basel-Mülhausen,Staatsvertrag,9,1,5,1,2
+119.500,Gesetz über die internationale Zusammenarbeit zwecks Armutsbekämpfung und Stärkung der nachhaltigen Entwicklung,Gesetz,1,1,16,1,7
+121.100,Bürgerrechtsgesetz,Gesetz,1,1,2,1,8
+121.110,Verordnung zum Bürgerrechtsgesetz,Verordnung,1,1,2,1,8
+122.700,Verordnung über die Gebühren für die Bewilligung der Beschäftigung ausländischer Arbeitskräfte,Verordnung,1,1,11,1,8
+131.100,Gesetz betreffend Initiative und Referendum,Gesetz,1,0,4,8,6
+133.300,Verordnung über das Vernehmlassungsverfahren,Verordnung,1,1,4,1,6
+151.100,Gesetz betreffend Ausstattung der neuen Gesamtausgabe der Basler Gesetzessammlung mit negativer Rechtskraft,Gesetz,1,1,1,1,0
+151.210,Verordnung zum Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt,Verordnung,1,1,9,1,6
+152.100,Gesetz über die Geschäftsordnung des Grossen Rates,Gesetz,1,0,4,8,6
+153.115,Weisung betreffend Ausrichtung von Sitzungsgeldern,Anderes,1,1,12,1,4
+153.150,Verordnung betreffend Organisation und Kompetenzen der Departemente und übrigen Verwaltungseinheiten,Verordnung,1,1,4,1,7
+153.260,Gesetz über die Information und den Datenschutz,Gesetz,1,0,9,8,6
+153.275,Verordnung über den Einsatz von unbemannten Luftfahrzeugen bei der Kantonspolizei als Pilotversuch,Verordnung,1,1,3,1,1
+153.280,Geschäftsordnung des Regierungsrates zum Gesetz über die Information und den Datenschutz,Anderes,1,1,9,1,6
+153.320,Verordnung über die Informationssicherheit,Verordnung,1,1,9,1,7
+153.350,Verordnung über die IT-Governance der kantonalen Verwaltung,Verordnung,1,1,4,1,7
+153.500,Verordnung über die Mitwirkung der Quartierbevölkerung,Verordnung,1,1,4,1,7
+RiE 153.300,Reglement über die Informationssicherheit der Gemeinde Riehen,Reglement,S,0,9,1,7
+154.110,Organisations- und Verfahrensreglement des Gerichtsrats,Reglement,1,1,17,8,6
+154.120,Reglement über das Dolmetscherwesen an den Gerichten,Reglement,1,1,17,8,6
+154.123,"Reglement über das von den Präsidentinnen und Präsidenten, nebenamtlichen Richterinnen und Richtern, Gerichtsschreiberinnen und Gerichtsschreibern sowie den Mitarbeitenden der Gerichte abzulegende Handgelübde",Reglement,1,1,17,8,6
+154.125,"Reglement über das Finanz- und Rechnungswesen, das Inkasso- und das Nachzahlungsverfahren der Gerichte",Reglement,1,1,17,8,6
+154.130,Verordnung betreffend das Arbeitsgericht,Verordnung,1,1,17,1,4
+154.160,Organisationsreglement des Gerichts für fürsorgerische Unterbringungen,Reglement,1,1,17,8,6
+154.190,Organisationsreglement des Jugendgerichts,Reglement,1,1,17,8,6
+154.810,Reglement über die Gerichtsgebühren,Reglement,1,0,17,8,6
+154.980,Verordnung betreffend die Verfahrenskosten für die Strafverfolgungsbehörden,Verordnung,1,1,13,1,1
+162.110,Verordnung zum Personalgesetz,Verordnung,1,1,12,8,4
+162.410,Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+162.880,Verordnung über dienstrechtliche Bestimmungen zur Einführung des Bundesgesetzes über die verdeckte Ermittlung,Verordnung,1,1,3,1,1
+162.890,Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel,Verordnung,1,1,12,1,4
+164.540,Verordnung betreffend Mischpensen,Verordnung,1,1,12,1,3
+166.100,Gesetz betreffend die Pensionskasse Basel-Stadt,Gesetz,1,1,7,1,4
+169.200,Verordnung über die Sozialpartnerschaftliche Zusammenarbeit in der Kantonalen Verwaltung Basel-Stadt,Verordnung,1,1,4,1,6
+169.600,Verordnung betreffend das Ideen-Management in der öffentlichen Verwaltung Basel-Stadt,Verordnung,1,1,12,1,4
+170.610,Verordnung zum Finanz- und Lastenausgleichgesetz,Verordnung,1,1,11,1,7
+171.300,Gesetz betreffend Verschmelzung der Gemeinde Kleinhüningen mit der Stadt Basel,Gesetz,1,1,10,1,2
+171.510,Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen im Geviert Bäumlihof,Anderes,1,1,10,1,2
+171.600,Urkunde zur Sicherstellung des in die kantonale Verwaltung übergegangenen Vermögens der Stadtgemeinde Basel,Anderes,1,1,10,1,2
+211.100,Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches,Gesetz,2,0,10,8,6
+BeE 832.755,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen,Anderes,S,1,2,1,8
+140.100,Kantonales Gleichstellungsgesetz zu Geschlecht und sexueller Orientierung,Gesetz,1,1,17,8,6
+140.500,Gesetz über die Rechte von Menschen mit Behinderungen,Gesetz,1,0,16,0,7
+190.110,Verordnung zum Kirchengesetz,Verordnung,1,1,5,1,2
+190.500,Convention conclue relativement à la Réorganisation et nouvelle circonscription de l’Evêché de Bâle,Staatsvertrag,1,1,15,1,4
+230.100,Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs,Gesetz,2,1,10,1,6
+230.710,"Uebereinkunft zwischen den schweizerischen Kantonen Zürich, Bern, Luzern, Unterwalden (ob und nid dem Wald), Freyburg, Solothurn, Basel (Stadt- und Landtheil), Schaffhausen, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg und Genf, sowie Appenzell Ausser-Rhoden, und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen",Staatsvertrag,2,1,5,1,2
+270.100,Gesetz über die Verfassungs- und Verwaltungsrechtspflege,Gesetz,2,0,4,8,6
+300.150,Vollziehungsverordnung zum Bundesgesetz über Tabakprodukte und elektronische Zigaretten,Verordnung,3,1,14,1,1
+300.400,Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz,Interkantonale Vereinbarung,3,1,7,1,7
+300.600,Gesetz über das Universitäre Zentrum für Zahnmedizin Basel,Gesetz,3,0,7,5,7
+310.140,Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen,Interkantonale Vereinbarung,3,1,16,1,8
+390.110,Bestattungsverordnung,Verordnung,3,1,18,0,2
+390.115,Reglement über das Bestattungs- und Friedhofwesen,Reglement,3,0,18,0,2
+390.740,"Vertrag betreffend die Kremation von Leichen aus der Gemeinde Dornach im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch das Sanitätsdepartement, und der Gemeinde Dornach (Kanton Solothurn), vertreten durch ihren Gemeinderat",Anderes,3,1,18,1,2
+460.200,Verordnung über die Maturitätskurse für Berufstätige,Verordnung,4,1,6,2,3
+610.110,Verordnung zum Gesetz über den kantonalen Finanzhaushalt,Verordnung,6,0,7,0,7
+610.200,Finanz- und Verwaltungskontrollgesetz,Gesetz,6,0,7,8,7
+650.400,Gesetz betreffend die Erhebung einer Gasttaxe,Gesetz,6,1,11,1,1
+650.410,Verordnung zum Gesetz betreffend die Erhebung einer Gasttaxe,Verordnung,6,1,11,1,1
+660.100,Verordnung über den Vollzug der direkten Bundessteuer,Verordnung,6,1,11,1,6
+670.100,Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich,Interkantonale Vereinbarung,6,1,7,1,7
+740.500,Verordnung betreffend die Entschädigung der Expropriationskommission,Verordnung,7,1,17,1,6
+869.560,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten eines Lehrlingsheimes der Stiftung zugunsten eines Lehrlingsheimes und CVJM-Hauses an der Gempenstrasse 64 in Basel,Anderes,8,1,10,3,0
+869.700,Gesetz über die Behindertenhilfe,Gesetz,8,0,2,0,8
+911.200,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes,Interkantonale Vereinbarung,9,1,16,1,7
+911.610,Verordnung zum Waldgesetz Basel-Stadt,Verordnung,9,0,1,0,0
+911.700,Vereinbarung über das Amt für Wald und Wild beider Basel,Interkantonale Vereinbarung,9,1,4,1,7
+912.510,Verordnung über die Fischerei im Kanton Basel-Stadt,Verordnung,9,0,14,0,1
+915.200,Gesetz über die Basler Kantonalbank,Gesetz,9,0,7,5,7
+952.200,Verordnung über den Strassenverkehr,Verordnung,9,0,13,0,1
+952.250,Reglement über die Versteigerung von Kontrollschildern im Internet,Reglement,9,1,13,1,1
+952.300,Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt,Verordnung,9,1,13,0,1
+952.560,Verordnung über die Parkraumbewirtschaftung,Verordnung,9,1,13,0,1
+952.800,Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel,Interkantonale Vereinbarung,9,1,7,1,7
+952.801,"Vereinbarung über eine gemeinsame Prüfstation in der «Unteren Wanne», Münchenstein",Interkantonale Vereinbarung,9,1,5,1,2
+952.820,"Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen",Interkantonale Vereinbarung,9,1,13,1,1
+953.100,Organisationsgesetz der Basler Verkehrs-Betriebe,Gesetz,9,0,7,5,7
+953.840,Vertrag zwischen den Basler Verkehrs-Betrieben (BV) und der BLT Baselland Transport AG (BLT) betreffend den Betrieb auf den Teilstrecken Basel-Aeschenplatz–Kantonsgrenze–Ruchfeld,Anderes,9,1,5,1,2
+953.900,"Vereinbarung zwischen den Schweizerischen Bundesbahnen (SBB) den Schweizerischen PTT-Betrieben (PTT) den Basler Verkehrs-Betrieben (BVB) der BLT Baselland Transport AG (BLT) und den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Jura, Solothurn betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990",Interkantonale Vereinbarung,9,1,5,1,2
+953.930,Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen,Interkantonale Vereinbarung,9,1,16,1,8
+954.511,"Vereinbarung betreffend das DB-Güterbahnhofareal in Basel zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat des Kantons Basel-Stadt, und der Bundesrepublik Deutschland, vertreten durch das Bundeseisenbahnvermögen",Staatsvertrag,9,1,5,1,2
+954.530,Übereinkunft betreffend die Herstellung einer Wiesenthaleisenbahn,Staatsvertrag,9,1,5,1,2
+956.400,"Vereinbarung zwischen der Schweizerischen Eidgenossenschaft vertreten durch den Schweizerischen Bundesrat und den Kantonen Basel-Stadt und Basel-Landschaft, jeweils vertreten durch den Regierungsrat betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen",Staatsvertrag,9,1,5,1,7
+956.500,Grossratsbeschluss betreffend Ausbau des Flughafens Basel-Mülhausen (II. Etappe des Erstausbaus),Anderes,9,1,5,1,2
+956.550,Vereinbarung über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen,Interkantonale Vereinbarung,9,1,4,8,7
+740.800,Verordnung betreffend den Vollzug des eidgenössischen Enteignungsrechts,Verordnung,7,1,1,1,0
+890.500,Gesetz über die Ausrichtung von Mietbeiträgen,Gesetz,8,1,2,1,8
+890.510,Verordnung zum Gesetz über die Ausrichtung von Mietbeiträgen,Verordnung,8,1,2,1,8
+890.710,Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen,Verordnung,8,0,2,0,8
+890.800,Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl,Anderes,8,1,16,1,8
+117.460,Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Verlegung der Kantonsgrenze bei der Batterie,Interkantonale Vereinbarung,1,1,10,1,2
+117.470,Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze zwischen Basel und Münchenstein im Gebiet der Reinacherstrasse (Dreispitzareal),Interkantonale Vereinbarung,1,1,10,1,2
+117.490,"Übereinkommen zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Änderung des Grenzverlaufs im Gebiet St. Jakobs-Strasse, Brüglingerstrasse und Münchensteinerstrasse",Interkantonale Vereinbarung,1,1,10,1,2
+118.300,Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Zusammenarbeit der Behörden,Interkantonale Vereinbarung,1,1,4,1,7
+118.400,Vereinbarung über die Nordwestschweizer Regierungskonferenz,Interkantonale Vereinbarung,1,1,4,1,7
+119.100,"Übereinkommen zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen",Staatsvertrag,1,1,5,1,7
+562.300,Gesetz über die Basler Herbstmesse,Gesetz,5,1,1,1,1
+562.350,Gebührenverordnung betreffend Messen und Märkte in der Stadt Basel,Verordnung,5,1,1,1,1
+562.400,Verordnung über die Einführung des Bundesgesetzes über das Gewerbe der Reisenden,Verordnung,5,1,1,1,1
+563.110,Verordnung zum Gastgewerbegesetz,Verordnung,5,0,1,0,0
+563.130,Verordnung zum Bundesgesetz über die gebrannten Wasser,Verordnung,5,1,1,1,0
+563.170,Gebührenverordnung zum Gastgewerbegesetz,Verordnung,5,1,13,1,1
+563.280,Tarifverordnung zum Taxigesetz,Verordnung,5,1,13,1,1
+563.500,Verordnung über die Bewilligung für die regelmässige und gewerbsmässige Personenbeförderung,Verordnung,5,1,13,1,1
+568.400,Verordnung über explosionsgefährliche Stoffe,Verordnung,5,1,14,1,1
+569.110,Verordnung zum Gesetz betreffend öffentliche Filmvorführungen und Abgabe von elektronischen Trägermedien,Verordnung,5,1,9,1,1
+569.150,"Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Departementsvorsteher des Erziehungsdepartements, Regierungsrat Dr. Christoph Eymann, Leimenstrasse 1, 4001 Basel, und dem Kanton Basel-Landschaft, vertreten durch den Vorsteher der Sicherheitsdirektion, Regierungsrat Isaac Reber, Rathausstrasse 2, 4410 Liestal, betreffend gemeinsame Medienkommission beider Basel",Interkantonale Vereinbarung,5,1,4,1,6
+571.300,Verordnung über die Disziplinarstrafgewalt in der Militärverwaltung,Verordnung,5,1,11,1,1
+576.100,Gesetz über den Zivilschutz und den Kulturgüterschutz,Gesetz,5,1,3,1,1
+576.150,Verordnung über den Zivilschutz,Verordnung,5,1,3,1,1
+576.170,Gebührenverordnung für den Zivil- und Kulturgüterschutz,Verordnung,5,1,13,1,1
+119.400,"Vereinbarung zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Raum Oberrhein",Staatsvertrag,1,1,5,1,7
+119.510,Verordnung über die internationale Zusammenarbeit zwecks Armutsbekämpfung und Stärkung der nachhaltigen Entwicklung,Verordnung,1,1,16,0,7
+122.250,Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe,Interkantonale Vereinbarung,1,1,9,1,8
+122.500,Gesetz über die Integration der Migrationsbevölkerung,Gesetz,1,1,16,1,8
+122.510,Verordnung zum Gesetz über die Integration der Migrationsbevölkerung,Verordnung,1,1,16,1,8
+123.400,Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,Interkantonale Vereinbarung,1,1,3,8,1
+123.410,Verordnung betreffend die Umsetzung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,Verordnung,1,1,3,1,1
+132.110,Verordnung zum Gesetz über Wahlen und Abstimmungen,Verordnung,1,0,4,8,6
+138.100,"Gesetz betreffend den Austritt in Behörden, die Beschränkung der Stimmgebung bei Wahlen und die Ausschliessung der Wählbarkeit von Verwandten zu Mitgliedern von Behörden",Gesetz,1,1,5,1,2
+138.200,Gesetz betreffend das Verfahren bei Unvereinbarkeit von öffentlichen Stellungen,Gesetz,1,1,4,1,6
+151.200,Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt,Gesetz,1,1,9,1,6
+152.110,Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates,Verordnung des Parlaments (Dekret),1,0,4,8,6
+152.150,Reglement zum Schutz der persönlichen Integrität der Grossratsmitglieder des Kantons Basel-Stadt,Reglement,1,1,3,8,6
+152.330,Ausgabenreglement für die Grossratskommissionen,Reglement,1,1,4,1,4
+153.180,Beschluss des Regierungsrates betreffend Neuordnung des Verwaltungs- und Rekursverfahrens,Anderes,1,1,4,1,6
+153.200,Verordnung über die Kantonale Krisenorganisation,Verordnung,1,1,3,1,7
+153.270,Verordnung über die Information und den Datenschutz,Verordnung,1,0,9,8,6
+153.300,Gesetz über ein zentrales elektronisches Behördenportal,Gesetz,1,1,9,1,1
+153.330,Weisung des Regierungsrates betreffend die Aufnahme von Telephongesprächen in der Verwaltung,Anderes,1,1,9,1,1
+153.340,Verordnung über die Einbindung des Authentifizierungsdienstes der Schweizer Behörden AGOV in das zentrale elektronische Behördenportal,Verordnung,1,1,9,1,1
+153.700,Verordnung betreffend die zentrale elektronische Bewilligungsplattform,Verordnung,1,1,9,1,7
+153.810,Verordnung zum Gesetz über die Verwaltungsgebühren,Verordnung,1,1,13,1,1
+154.100,Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft,Gesetz,1,0,17,8,6
+154.118,Reglement zur Aufbewahrung und Archivierung von Unterlagen der Gerichte Basel-Stadt,Reglement,1,1,9,8,6
+154.128,Reglement über das Informatikmanagement an den Gerichten,Reglement,1,1,17,1,6
+154.150,Organisationsreglement des Appellationsgerichts,Reglement,1,1,17,8,6
+154.170,Organisationsreglement des Zivilgerichts,Reglement,1,1,17,8,6
+154.180,Organisationsreglement des Strafgerichts,Reglement,1,1,17,8,6
+154.250,Reglement des Sozialversicherungsgerichts und des Schiedsgerichts in Sozialversicherungssachen,Reglement,1,1,17,8,6
+154.300,Entschädigungsreglement der Gerichte Basel-Stadt,Reglement,1,1,17,8,4
+162.200,Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+162.300,Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen,Anderes,1,1,4,1,6
+162.600,Verordnung betreffend Meldung von Missständen,Verordnung,1,1,3,1,6
+163.200,Verordnung betreffend Dienstwohnungen,Verordnung,1,1,1,1,0
+163.400,Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+164.100,Lohngesetz,Gesetz,1,1,12,1,4
+164.150,Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeitenden des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+164.160,Verordnung über die Beschleunigung und die Verzögerung des Stufenaufstiegs gemäss § 10 des Lohngesetzes,Verordnung,1,1,12,1,4
+164.180,Verordnung betreffend Wahl und Organisation der Begutachtungskommission,Verordnung,1,1,17,1,6
+164.200,Verordnung über die Ausrichtung von Anerkennungsprämien an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt,Verordnung,1,1,12,1,4
+164.410,Verordnung betreffend Zulagen gemäss § 15a Lohngesetz,Verordnung,1,1,12,1,4
+164.430,Verordnung betreffend Lohnnebenleistungen,Verordnung,1,1,12,1,4
+164.520,Verordnung betreffend Festlegung der Löhne von Lehrpersonen als Aushilfen sowie für Stellvertretungen,Verordnung,1,1,12,1,4
+164.680,Verordnung betreffend die Entschädigung für Lehraufträge am Institut für Spezielle Pädagogik und Psychologie (ISP),Verordnung,1,1,12,1,4
+164.700,Verordnung betreffend die Entschädigung für Lehraufträge am Turnlehrerkurs der Universität Basel,Verordnung,1,1,12,1,4
+165.100,Gesetz betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit,Gesetz,1,1,12,1,4
+170.600,Finanz- und Lastenausgleichgesetz,Gesetz,1,1,16,1,7
+171.310,Bekanntmachung betreffend das Inkrafttreten des Gesetzes über die Verschmelzung der Gemeinde Kleinhüningen mit der Stadt Basel,Anderes,1,1,10,1,2
+171.500,Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen,Anderes,1,1,10,1,2
+177.600,Grossratsbeschluss betreffend die Verhältnisse der Gemeinden Riehen und Bettingen,Anderes,1,1,10,1,2
+649.800,Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken,Staatsvertrag,6,1,5,1,2
+685.200,Verträge zwischen der Einwohnergemeinde der Stadt Basel und der Christoph Merian Stiftung über das Dreispitzareal,Anderes,6,1,10,1,2
+695.400,Prämienbestimmungen zum Gebäudeversicherungsgesetz,Anderes,6,1,1,1,0
+695.600,Prämienermässigungsreglement der Gebäudeversicherung,Reglement,6,1,1,1,0
+717.110,Verordnung betreffend den Vollzug des Gesetzes über die Ermittlung von Grundstückwerten vom 20. Juni 1968 und über die zu erhebenden Gebühren,Verordnung,7,1,10,1,0
+724.100,Gesetz über die Nutzung des öffentlichen Raumes,Gesetz,7,0,1,0,0
+724.140,Verordnung über die Inanspruchnahme der Allmend,Verordnung,7,0,1,0,0
+724.300,Vorschriften des Baudepartementes für die Ausführung von Grabarbeiten in der Allmend,Anderes,7,0,1,0,0
+724.910,Gebührenverordnung zum Gesetz über die Nutzung des öffentlichen Raumes,Verordnung,7,0,1,0,0
+730.210,Kantonale Verordnung über Fuss- und Wanderwege,Verordnung,7,1,1,0,0
+730.700,Verordnung über Beiträge an die Kosten der Beseitigung von Sprayereien an privaten Liegenschaften,Verordnung,7,1,1,1,0
+771.310,Verordnung zum Gesetz betreffend Einführung des Bundesgesetzes über Nutzbarmachung der Wasserkräfte,Verordnung,7,1,1,1,0
+771.510,Verordnung zum Gesetz über die Nutzung von öffentlichem Fluss- und Grundwasser,Verordnung,7,1,1,1,0
+771.700,Staatsvertrag über Wasserbenützung aus der Wiese abgeschlossen zwischen dem Markgrafen Karl Friedrich von Baden und Bürgermeister und Rat der Stadt Basel am 16./25. August 1756,Staatsvertrag,7,1,5,1,2
+771.710,Vereinbarung betreffend Sicherung des Vollzugs des Staatsvertrages vom 16./25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese,Staatsvertrag,7,1,5,1,2
+771.720,Vereinbarung betreffend Änderung der am 19. Oktober 1894 vereinbarten Vollzugsbestimmungen zum Staatsvertrage vom 16. und 25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese,Staatsvertrag,7,1,5,1,2
+772.140,Verordnung zur Lenkungsabgabe und zum Strompreis-Bonus,Verordnung,7,1,11,0,8
+772.150,Beschluss des Regierungsrates betreffend Erhebung einer Förderabgabe zur Finanzierung der sich aus dem Energiegesetz ergebenden finanziellen Verpflichtungen,Anderes,7,1,1,1,5
+772.180,Verordnung betreffend Entschädigungen und Beiträge aufgrund der Einstellung der Gasversorgung,Verordnung,7,1,1,0,0
+772.380,Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme,Anderes,7,1,0,1,5
+772.420,Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität,Anderes,7,1,0,1,5
+772.580,Verordnung betreffend Ausführung des Bundesgesetzes über Rohrleitungsanlagen,Verordnung,7,1,1,1,0
+772.830,Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser,Anderes,7,1,0,1,5
+780.100,Umweltschutzgesetz Basel-Stadt,Gesetz,7,0,1,0,0
+780.350,Verordnung über umweltfreundliche Verkehrsmittel,Verordnung,7,1,1,1,0
+780.360,Verordnung über die Förderung der Ladeinfrastruktur für Elektroautos,Verordnung,7,1,1,1,0
+780.400,Gesetz betreffend den Schutz der Bevölkerung vor Atomkraftwerken,Gesetz,7,1,1,1,7
+780.900,Verordnung über die Gebühren des Kantonalen Laboratoriums im Bereich der Umweltschutzgesetzgebung,Verordnung,7,1,1,1,1
+781.220,Verordnung über die Verschärfung von Emissionsbegrenzungen für stationäre Anlagen,Verordnung,7,1,1,1,0
+782.100,Lärmschutzverordnung Basel-Stadt,Verordnung,7,0,1,0,0
+783.200,Kantonale Gewässerschutzverordnung,Verordnung,7,0,1,0,0
+785.720,"Vertrag zwischen dem Kanton Basel-Stadt, dem Kanton Basel-Landschaft, den Firmen Ciba-Geigy AG, in Basel, F. Hoffmann-La Roche & Co. AG, in Basel, Sandoz AG, in Basel, betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen",Interkantonale Vereinbarung,7,0,5,1,2
+786.150,Verordnung über Abfallsammlungen in der Stadt Basel,Verordnung,7,1,1,1,0
+787.100,Bodenschutzverordnung Basel-Stadt,Verordnung,7,1,1,1,0
+789.600,Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet,Verordnung,7,1,1,0,0
+789.730,Grossratsbeschluss betreffend Erweiterung der Baumschutzgebiete im Kanton Basel-Stadt,Anderes,7,1,1,1,0
+789.750,Beschluss des Regierungsrates betreffend den Schutz der Rheinhalde,Anderes,7,1,1,1,0
+811.100,Gesetz über öffentliche Ruhetage und Ladenöffnung,Gesetz,8,1,13,1,1
+811.110,Verordnung zum Gesetz über öffentliche Ruhetage und Ladenöffnung,Verordnung,8,1,13,1,1
+812.100,"Einführungsgesetz zum Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",Gesetz,8,1,11,1,1
+812.210,Verordnung über den kantonalen Mindestlohn,Verordnung,8,1,11,1,8
+812.350,Verordnung betreffend Arbeits- und Ruhezeit der Taxifahrerinnen und Taxifahrer im Kanton Basel-Stadt,Verordnung,8,1,13,1,1
+812.500,Verordnung betreffend den Vollzug des Bundesgesetzes über die Heimarbeit vom 20. März 1981,Verordnung,8,1,11,1,1
+812.900,Verordnung zum Bundesgesetz über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer,Verordnung,8,1,11,1,6
+813.310,Vollziehungsverordnung zum Gesetz betreffend das ständige staatliche Einigungsamt vom 9. November 1911,Verordnung,8,1,4,8,6
+813.400,Verordnung über das Verfahren vor dem Einigungsamt als vertraglichem Schiedsgericht,Verordnung,8,1,4,8,6
+815.100,Gesetz betreffend Tagesbetreuung von Kindern,Gesetz,8,1,2,0,8
+815.110,Verordnung über die Betreuung von Kindern in Kindertagesstätten und Tagesfamilien,Verordnung,8,0,2,0,8
+815.120,Verordnung über die Betreuungsbeiträge in Kindertagesstätten und Tagesfamilien und die Leistungen an Eltern,Verordnung,8,1,2,1,8
+819.400,Gesetz betreffend die Gewährung von Steuervergütungen auf Arbeitsbeschaffungsreserven,Gesetz,8,1,11,1,8
+819.510,Verordnung über die Arbeitsvermittlung und den Personalverleih,Verordnung,8,1,11,1,1
+819.610,Verordnung über die Kontrolle und Finanzierung der Stellenmeldepflicht,Verordnung,8,1,11,1,8
+819.870,Verordnung betreffend Gewährung von Bürgschaften im Zusammenhang mit der COVID-19-Pandemie,Verordnung,8,1,11,1,7
+831.290,Verordnung über die Erhebung von Verwaltungskostenbeiträgen durch die Kantonale Ausgleichskasse/AHV,Verordnung,8,1,11,1,8
+832.720,Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen,Verordnung,8,1,2,1,8
+832.755,Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen,Anderes,8,1,2,1,8
+834.400,Gesetz über die Krankenversicherung im Kanton Basel-Stadt,Gesetz,8,1,11,1,8
+834.410,Verordnung über die Krankenversicherung im Kanton Basel-Stadt,Verordnung,8,1,2,1,8
+835.150,Verordnung betreffend Zuständigkeit und Organisation beim Vollzug der Arbeitslosenversicherung im Kanton Basel-Stadt,Verordnung,8,1,11,1,8
+835.210,Verordnung zum Gesetz betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit,Verordnung,8,1,11,1,7
+835.350,Reglement der Öffentlichen Arbeitslosenkasse Basel-Stadt,Anderes,8,1,11,1,8
+835.500,Gesetz betreffend kantonale Arbeitslosenhilfe,Gesetz,8,1,11,1,8
+861.500,Gesetz über die Wohnraumförderung,Gesetz,8,0,1,0,0
+861.600,Gesetz über die Stiftung für preisgünstigen Wohnraum Basel-Stadt,Gesetz,8,0,7,0,7
+861.626,Richtlinien zur Mietzinsgestaltung der Stiftung für preisgünstigen Wohnraum Basel-Stadt,Anderes,8,1,1,1,0
+869.205,Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten einer Alterssiedlung der Christoph Merian Stiftung auf dem Sesselacker,Anderes,8,1,10,3,2
+333.100,Interkantonale Vereinbarung über die hochspezialisierte Medizin,Interkantonale Vereinbarung,3,1,16,1,7
+339.240,Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft,Interkantonale Vereinbarung,3,1,16,1,1
+340.100,Heilmittelverordnung,Verordnung,3,1,14,0,1
+340.250,Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates,Interkantonale Vereinbarung,3,1,7,1,7
+340.500,Kantonale Verordnung betreffend Betäubungsmittel,Verordnung,3,1,3,1,1
+340.800,Verordnung über Chemikalien,Verordnung,3,1,14,1,1
+351.310,Verordnung betreffend Gebühren des Kantonalen Laboratoriums im administrativen Bereich,Verordnung,3,1,13,1,1
+365.101,Regierungsratsbeschluss betreffend Liste der als potentiell gefährlich eingestuften Hunderassen und deren Kreuzungen gemäss § 14 Abs. 2 des Gesetzes betreffend das Halten von Hunden (Hundegesetz),Anderes,3,1,14,1,1
+365.110,Verordnung betreffend das Halten von Hunden,Verordnung,3,0,14,0,1
+365.300,Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Durchführung von Kontrollen auf Tierhaltungsbetrieben im Kanton Basel-Stadt,Interkantonale Vereinbarung,3,1,14,1,1
+365.540,Reglement betreffend das Halten gefährlicher Tiere,Reglement,3,1,14,0,1
+410.100,Schulgesetz,Gesetz,4,0,8,7,3
+410.140,Verordnung über die Kooperation zwischen der Schule und den Erziehungsberechtigten,Verordnung,4,1,8,7,3
+410.150,Übergangsverordnung betreffend den Übergang von der bisherigen Schullaufbahn zur neuen harmonisierten Schullaufbahn,Anderes,4,1,8,7,3
+410.200,Ordnung für die Festlegung und Veränderung der Anzahl Unterrichtslektionen für die vom Kanton geführten Schulen,Anderes,4,1,8,7,3
+410.300,Ordnung über die Überschreitung der gesetzlichen Klassengrössen,Anderes,4,1,8,1,3
+410.910,Verordnung über die auswärtigen Schulanlässe der Schulen des Kantons Basel-Stadt,Verordnung,4,1,8,7,3
+411.100,Verordnung über die Staatliche Schulsynode des Kantons Basel-Stadt,Verordnung,4,0,4,8,6
+411.150,Verordnung betreffend die Tätigkeit der Schulräte der Volksschulen,Verordnung,4,1,8,7,3
+411.300,Verordnung über die Volksschulleitung,Verordnung,4,1,8,7,3
+411.360,Verordnung für die Schulleitungen der weiterführenden Schulen,Verordnung,4,1,8,7,3
+411.380,Ordnung für die Schulkonferenzen,Anderes,4,1,8,7,3
+411.500,Verordnung betreffend die Pflichtlektionenzahl und die Lektionenzuteilung der Lehrpersonen an den vom Kanton geführten Schulen,Verordnung,4,1,12,7,4
+411.520,Verordnung betreffend den Übertritt von Lehrkräften an die Orientierungsschule und an die Weiterbildungsschule,Verordnung,4,1,8,1,3
+412.400,Verordnung über die frühe Deutschförderung,Verordnung,4,1,2,1,8
+413.825,Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt,Reglement,4,1,6,2,3
+414.710,Verordnung betreffend die Gebühren der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt,Verordnung,4,1,13,1,1
+415.700,Verordnung für den Schulpsychologischen Dienst,Verordnung,4,1,2,1,8
+419.700,Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen,Interkantonale Vereinbarung,4,1,16,1,8
+419.720,Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien,Interkantonale Vereinbarung,4,1,8,1,3
+419.750,Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung,Interkantonale Vereinbarung,4,1,16,1,8
+419.903,Verordnung der SDK über die Anerkennung von ausländischen Ausbildungsabschlüssen,Interkantonale Vereinbarung,4,1,6,1,8
+419.905,Reglement der GDK für die interkantonale Prüfung von Osteopathinnen und Osteopathen in der Schweiz,Interkantonale Vereinbarung,4,1,6,2,3
+419.910,Verordnung des Bundesrates / Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen,Interkantonale Vereinbarung,4,1,6,2,3
+420.200,Kantonales Gesetz über die Berufsbildung,Gesetz,4,1,6,7,3
+420.210,Verordnung über den Vollzug des Kantonalen Gesetzes über die Berufsbildung,Verordnung,4,1,6,7,3
+421.110,Schulordnung für die Allgemeine Gewerbeschule Basel,Anderes,4,1,8,7,3
+421.500,Grossratsbeschluss betreffend Errichtung einer Berufsmittelschule,Anderes,4,1,8,1,3
+423.100,Gesetz betreffend die Berufsfachschule Basel (BFS Basel),Gesetz,4,1,8,7,3
+424.100,Verordnung über die Berufsmaturität,Verordnung,4,1,6,2,3
+424.500,Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhabenden eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen,Verordnung,4,1,6,2,3
+427.120,"Vereinbarung zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals",Interkantonale Vereinbarung,4,1,16,1,7
+427.940,Verordnung über den Bildungsgang zur diplomierten Biomedizinischen Analytikerin HF / zum diplomierten Biomedizinischen Analytiker HF,Verordnung,4,1,6,2,3
+439.140,Verordnung betreffend die Entschädigungen für die Mitwirkung an Aufnahme- und Abschlussprüfungen,Verordnung,4,1,6,1,3
+440.110,Statut der Universität Basel,Anderes,4,0,7,5,7
+451.100,Gesetz über die Museen des Kantons Basel-Stadt,Gesetz,4,0,7,0,7
+451.110,Verordnung zum Gesetz über die Museen des Kantons Basel-Stadt,Verordnung,4,1,7,1,7
+451.500,Verordnung betreffend das Museum Kleines Klingental,Verordnung,4,1,1,1,0
+453.500,Verordnung über die Erhebung von Gebühren der zentralen Statistikstelle,Verordnung,4,1,13,1,1
+491.110,Vollziehungsverordnung zum Gesetz betreffend Ausbildungsbeiträge,Verordnung,4,1,2,0,8
+494.340,Verordnung über die Programm- und Strukturförderung Orchester,Verordnung,4,1,16,1,7
+494.500,Ordnung für die Verleihung des Wissenschaftspreises der Stadt Basel,Anderes,4,1,4,1,7
+494.700,Verordnung über die Verwendung der Jugendkulturpauschale,Verordnung,4,1,16,1,7
+494.830,Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung,Interkantonale Vereinbarung,4,1,16,1,7
+497.100,Gesetz über den Denkmalschutz,Gesetz,4,0,1,0,0
+497.110,Verordnung betreffend die Denkmalpflege,Verordnung,4,0,1,0,0
+510.100,Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt,Gesetz,5,0,3,8,1
+510.200,Vereinbarung über die grenzüberschreitenden polizeilichen Tätigkeiten in den Kantonen Basel-Landschaft und Basel-Stadt,Interkantonale Vereinbarung,5,1,3,1,1
+510.430,Pilotversuchsverordnung über die Qualitätssicherung des kantonalen Bedrohungsmanagements,Verordnung,5,1,9,1,6
+519.700,Gebührenordnung für den kleinen Grenzverkehr,Anderes,5,1,5,1,2
+561.110,Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen,Interkantonale Vereinbarung,5,1,16,1,7
+561.111,Gesamtschweizerisches Geldspielkonkordat,Interkantonale Vereinbarung,5,0,7,8,7
+257.135,Verordnung über dauernd bestellte und amtliche Sachverständige im Strafverfahren,Verordnung,2,1,3,1,6
+257.140,Verordnung über das Informatiksystem der Staatsanwaltschaft,Verordnung,2,1,3,8,6
+257.810,Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009,Interkantonale Vereinbarung,2,1,9,1,6
+258.600,Konvention zwischen dem Kanton Basel-Stadt und der Stiftung Schweizerisches Ausbildungszentrum für das Strafvollzugspersonal betreffend Regelung der Kantonsbeiträge an die Kosten des Schweizerischen Ausbildungszentrums,Anderes,2,1,11,1,6
+291.400,Reglement über das Honorar und die Entschädigung der berufsmässigen Vertretung im Gerichtsverfahren,Anderes,2,1,17,8,6
+292.100,Notariatsgesetz des Kantons Basel-Stadt,Gesetz,2,0,4,8,6
+292.110,Verordnung zum Notariatsgesetz des Kantons Basel-Stadt,Verordnung,2,0,9,8,6
+321.500,Übereinkunft zwischen der Schweiz und dem Grossherzogtum Baden betreffend die sanitäre Überwachung des von der Schweiz nach Baden gerichteten Reiseverkehrs auf dem Badischen Bahnhof zu Basel bei drohenden oder ausgebrochenen Seuchen,Staatsvertrag,3,1,5,1,2
+322.100,Gesetz betreffend Massnahmen gegen den Alkohol- und Medikamentenmissbrauch sowie gegen den Drogenkonsum und betreffend Einführung des revidierten Bundesgesetzes über die Betäubungsmittel vom 20. März 1975,Gesetz,3,1,2,1,8
+328.210,Verordnung betreffend die soziale Zahnpflege,Verordnung,3,1,2,1,8
+329.200,Grossratsbeschluss betreffend die ärztliche Versorgung der Bevölkerung in den Aussenquartieren der Stadt und in Riehen,Anderes,3,1,16,1,8
+329.201,Grossratsbeschluss betreffend Initiativbegehren betreffend Verbesserung der medizinisch-pflegerischen und sozialen Betreuung durch Gesundheitszentren im Quartier,Anderes,3,1,16,1,8
+212.100,Kantonale Zivilstandsverordnung,Verordnung,2,1,2,1,6
+212.191,Verordnung über die elektronische Überwachung zum Schutz gewaltbetroffener Personen,Verordnung,2,1,3,1,6
+212.250,"Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen",Verordnung,2,0,2,0,8
+212.260,"Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Familienpflege",Verordnung,2,0,2,0,8
+212.400,Kindes- und Erwachsenenschutzgesetz,Gesetz,2,0,2,8,6
+212.600,Verordnung betreffend Einführung des Bundesgesetzes über Voraussetzungen und Verfahren bei Sterilisationen,Verordnung,2,1,11,1,1
+212.860,Verordnung zum Einführungsgesetz zum Bundesgesetz über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen,Verordnung,2,1,9,1,8
+214.200,Verordnung über die Behandlung von Fundsachen,Verordnung,2,1,13,1,1
+214.305,Geoinformationsverordnung,Verordnung,2,1,9,1,0
+214.610,Gesetz betreffend die Einführung von weiteren Bewilligungsgründen für den Erwerb von Grundstücken durch Personen im Ausland,Gesetz,2,1,10,1,0
+215.400,Gesetz über die Staatliche Schlichtungsstelle für Mietstreitigkeiten,Gesetz,2,1,17,1,6
+215.500,Verordnung zum Bundesgesetz über die landwirtschaftliche Pacht,Verordnung,2,1,4,1,0
+215.999,Information des Justiz- und Sicherheitsdepartements des Kantons Basel-Stadt betreffend Gesamtarbeitsverträge,Anderes,2,1,4,1,7
+251.700,Beschluss des Regierungsrates betreffend die Bezeichnung der bei Vernachlässigung von Unterstützungspflichten antragsberechtigten Behörden und Stellen,Anderes,2,1,3,1,1
+257.100,Gesetz über die Einführung der Schweizerischen Strafprozessordnung,Gesetz,2,1,3,8,6
