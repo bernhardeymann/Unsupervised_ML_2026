@@ -20,10 +20,10 @@ This project applies unsupervised machine learning techniques to the *Systematis
 | 3.1 | Preprocessing — Scaling | `notebooks/03_1_scaling.ipynb` |
 | 3.2 | Preprocessing — Outlier Detection | `notebooks/03_2_outlier_detection.ipynb` |
 | 4.1 | Dimensionality Reduction (PCA / t-SNE) | `notebooks/04_1_dimensionality_reduction.ipynb` |
-| 4.2 | Visualization — Legal Landscape Plot | `notebooks/04_2_visualization.ipynb` |
 | 5.1 | Clustering — K-Means | `notebooks/05_1_kmeans.ipynb` |
 | 5.2 | Clustering — DBSCAN | `notebooks/05_2_dbscan.ipynb` |
-| 6 | Iteration & Improvement | `notebooks/06_iteration.ipynb` |
+| 5.3 | Visualization — t-SNE coloured by cluster & Hauptgruppe | `notebooks/05_3_visualization.ipynb` |
+| 6 | Iteration & Conclusions | `notebooks/06_iteration.ipynb` |
 
 ## Repository Structure
 
