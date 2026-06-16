@@ -23,7 +23,8 @@ This project applies unsupervised machine learning techniques to the *Systematis
 | 5.1 | Clustering — K-Means | `notebooks/05_1_kmeans.ipynb` |
 | 5.2 | Clustering — DBSCAN | `notebooks/05_2_dbscan.ipynb` |
 | 5.3 | Visualization — t-SNE coloured by cluster & Hauptgruppe | `notebooks/05_3_visualization.ipynb` |
-| 6 | Iteration & Conclusions | `notebooks/06_iteration.ipynb` |
+| 6 | Digitalization — Cross-sectoral theme analysis | `notebooks/06_digitalization.ipynb` |
+| 7 | Synthesis — Method comparison, sensitivity analysis, findings & limitations | `notebooks/07_synthesis.ipynb` |
 
 ## Repository Structure
 
