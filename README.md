@@ -48,5 +48,8 @@ This project applies unsupervised machine learning techniques to the *Systematis
 uml_env\Scripts\activate.bat
 
 # Install dependencies
-pip install numpy pandas matplotlib seaborn scikit-learn notebook gensim torch torchvision
+pip install numpy pandas matplotlib scikit-learn notebook gensim spacy requests scipy tqdm
+
+# Download spaCy German model
+python -m spacy download de_core_news_sm
 ```
