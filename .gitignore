@@ -22,3 +22,14 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# LaTeX report (maintained in Overleaf; only final PDF versioned)
+report/chapters/
+report/*.tex
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report_notes_update.md
